@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1a71a11a686ca3aa9d6f7451f394aa1f6a40e653
+source-git-commit: 33fc78768c3664f9ed9b608c260414b16f37613a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # Bijdragen
@@ -13,12 +13,12 @@ Hieronder volgt een reeks richtlijnen die moeten worden gevolgd wanneer u een bi
 
 ## Gedragscode
 
-Dit project voldoet aan de Adobe [gedragscode](code-of-conduct.md). Door deel te nemen, wordt u verwacht deze code te handhaven. Geef een onacceptabel gedrag aan
+Dit project voldoet aan de Adobe-[gedragscode](code-of-conduct.md). Als u deelneemt, wordt van u verwacht dat u zich aan deze code houdt. Geef een onacceptabel gedrag aan
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Documentatie voor de bijdragegids
 
-Zie de [Handleiding voor contribuanten](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Zie de [Handleiding voor contribuanten](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Heb je een vraag?
 
@@ -26,12 +26,11 @@ Begin met het indienen van een probleem. De bestaande comités voor dit project 
 
 ## Licentieovereenkomst voor contribuant
 
-Alle bijdragen van derden aan dit project moeten vergezeld gaan van een ondertekende contributieovereenkomst. Dit geeft Adobe toestemming om uw bijdragen als deel van het project te herverdelen. [CLA ondertekenen](http://opensource.adobe.com/cla.html). U hoeft slechts één keer een Adobe CLA in te dienen, dus als u eerder een CLA hebt verzonden, kunt u het beste gaan!
+Alle bijdragen van derden aan dit project moeten vergezeld gaan van een ondertekende contributieovereenkomst. Dit geeft Adobe de toestemming om uw bijdragen als deel van het project opnieuw te verdelen. [CLA ondertekenen](http://opensource.adobe.com/cla.html). U hoeft slechts één keer een Adobe CLA in te dienen, dus als u eerder een CLA hebt verzonden, kunt u het beste gaan!
 
 ## Codebeoordelingen
 
-Alle inzendingen moeten de vorm aannemen van een &quot;pull&quot;-verzoek en moeten door projectbevrachters worden herzien. Lezen [De documentatie van het trektrekkingsverzoek van GitHub](https://help.github.com/articles/about-pull-requests/)
-voor meer informatie over het verzenden van trekkingsverzoeken.
+Alle inzendingen moeten in de vorm van pull-aanvragen gebeuren en moeten door projectcommitters worden gecontroleerd. Lees de documentatie [over pull-aanvragen van GitHub](https://help.github.com/articles/about-pull-requests/) voor meer informatie over het indienen van pull-aanvragen.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
