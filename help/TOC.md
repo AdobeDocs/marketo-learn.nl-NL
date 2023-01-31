@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage Tutorials
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,6 @@ ht-degree: 0%
 + Beheer van leads en gegevens {#lead-and-data-management}
    + [Loodscores](lead-and-data-management/lead-scoring-learn.md)
    + [Doorloop voor toonaangevende scoring](lead-and-data-management/lead-scoring-watch.md)
-   + [Voorbeelden van leads-scoring](lead-and-data-management/lead-scoring.md)
    + [Abonnementencentrum](lead-and-data-management/subscription-center-learn.md)
    + [Doorloop voor abonnementencentrum](lead-and-data-management/subscription-center-watch.md)
    + [CRM-synchronisatie](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 0%
    + [Overzicht van Handelingen in het verkoopinzicht](sales-insight-actions/sales-insight-actions-overview.md)
    + [Toegang tot uw exemplaar van Handelingen van het Inzicht van de Verkoop](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Logbestand van verkoopactiviteiten configureren voor [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Verborgen {#hidden}
+   + [Marketo en Mochas Lead Scores](events/marketo-and-mochas/lead-scoring.md)
+   + [Kenmerken Marketo en Mochas Marketo Measure](events/marketo-and-mochas/attribution.md)
