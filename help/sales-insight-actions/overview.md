@@ -1,10 +1,11 @@
 ---
 title: Tutorials  van Handelingen van het Inzicht van de Verkoop
 description: Gebruiken [!UICONTROL Sales Insight Actions] het versnellen van de prospectieve inspanningen met marketinggestuurde intelligentie- en betrokkenheidsinstrumenten in één workflow.
+doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---

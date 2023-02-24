@@ -1,11 +1,12 @@
 ---
 title: Dynamische chatzelfstudies
-description: Meer informatie over Dynamic Chat op Adobe Experience League. Gebruik deze zelfstudies samen met de documentatie om uw begrip van te verbeteren hoe te om Dynamisch Praatje te gebruiken om gepersonaliseerde gesprekken tot stand te brengen.
+description: Meer informatie over Dynamic Chat in Adobe Experience League. Gebruik deze tutorials samen met de documentatie om meer inzicht te krijgen in het gebruik van Dynamic Chat om gepersonaliseerde gesprekken te maken.
+doc-type: overview-page
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
-source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 14%
 
 ---
 
