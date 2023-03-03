@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: 9ea687c89fc22808fc6e2f53ea6832ef882a9980
+source-git-commit: 367fa4837c33b7efc6ad49d5c262f33ca2face10
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 7%
 
 ---
 
@@ -80,5 +80,6 @@ ht-degree: 0%
    + [Gebeurtenissen](events/events-learn.md)
    + [Ontwerp een effectief interactief webinar](events/design-an-effective-interactive-webinar.md)
 + Verborgen {#hidden}
-   + [Marketo en Mochas Lead Scores](events/marketo-and-mochas/lead-scoring.md)
-   + [Kenmerken Marketo en Mochas Marketo Measure](events/marketo-and-mochas/attribution.md)
+   + [Marketo en Mochas Lead Scores](event-recordings/marketo-and-mochas/lead-scoring.md)
+   + [Kenmerken Marketo en Mochas Marketo Measure](event-recordings/marketo-and-mochas/attribution.md)
+   + [Hoe kan je Adobe Marketo Engage-inhoud schalen?](event-recordings/templates-tokens-teamwork.md)
