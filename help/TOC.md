@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
+source-git-commit: c80c10f57e7f3679a90251251f31ebdc1b271713
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,7 +38,6 @@ ht-degree: 7%
    + [Dynamische en voorspelbare inhoud](email-marketing/dynamic-and-predictive-content-learn.md)
    + [Bezig met filteren van e-mailbot-activiteiten - Instellen](filtering-email-bot-activities/setup.md)
 + Kanaaloverschrijdende marketing {#cross-channel-marketing}
-   + [Gebeurtenissen doorlopen](events/events-watch.md)
    + [Forms doorlopen](email-marketing/forms-watch.md)
    + [Integratie van mobiele marketing](cross-channel-marketing/mobile-marketing-learn.md)
    + [Doorloop voor mobiele marketing](cross-channel-marketing/mobile-marketing-watch.md)
@@ -46,8 +45,6 @@ ht-degree: 7%
    + [SEO en PPC doorlopen](cross-channel-marketing/seo-and-ppc-watch.md)
    + [Sociale marketing](cross-channel-marketing/social-marketing-learn.md)
    + [Doorloop voor sociale marketing](cross-channel-marketing/social-marketing-watch.md)
-   + [Webinars](events/webinar-learn.md)
-   + [Doorloop voor webinars](events/webinar-watch.md)
    + [Webpersonalisatie](cross-channel-marketing/web-personalization-learn.md)
    + [Doorloop voor webpersonalisatie](cross-channel-marketing/web-personalization-watch.md)
 + Dynamische chat {#dynamic-chat}
@@ -77,7 +74,10 @@ ht-degree: 7%
    + [Aanbevolen procedures](instance-management/best-practice-learn.md)
    + [Best practices doorlopen](instance-management/best-practice-watch.md)
 + Gebeurtenissen {#events}
+   + [Gebeurtenissen doorlopen](events/events-watch.md)
    + [Een gebeurtenisprogramma maken](events/events-learn.md)
+   + [Webinars](events/webinar-learn.md)
+   + [Doorloop voor webinars](events/webinar-watch.md)
    + [Ontwerp een effectief interactief webinar](events/design-an-effective-interactive-webinar.md)
 + Verborgen {#hidden}
    + [Marketo en Mochas Lead Scores](event-recordings/marketo-and-mochas/lead-scoring.md)
