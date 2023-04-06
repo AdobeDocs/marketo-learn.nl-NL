@@ -3,7 +3,7 @@ title: Tutorials  van Handelingen van het Inzicht van de Verkoop
 description: Gebruiken [!UICONTROL Sales Insight Actions] het versnellen van de prospectieve inspanningen met marketinggestuurde intelligentie- en betrokkenheidsinstrumenten in één workflow.
 doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Gebruiken [!UICONTROL Sales Insight Actions] het versnellen van de prospectieve 
 <p><em>Versnel de prospectie-inspanningen met marketing-aangedreven intelligentie en betrokkenheidsinstrumenten.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="miniatuurafbeelding voor [!DNL Sales Insight Actions] Gebruikershandleiding voor aan boord nemen" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] Gebruikershandleiding voor aan boord nemen</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="miniatuurafbeelding voor [!DNL Sales Insight Actions] Gebruikershandleiding voor aan boord nemen" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Gebruikershandleiding voor aan boord nemen</strong></a></div>
 <p><em>De stappen nieuwe gebruikers zullen moeten volgen beginnen.</em></p>
 </td>
 <td>
