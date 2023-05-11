@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 6c8e6e72de48b4af69ec0f3443bae732a229ef15
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 7%
@@ -39,7 +39,7 @@ ht-degree: 7%
    + [E-maildoorloop geactiveerd](/help/email-marketing/triggered-email-watch.md)
    + [Loodvoeding](/help/email-marketing/lead-nuturing-learn.md)
    + [Dynamische en voorspelbare inhoud](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Bezig met filteren van e-mailbot-activiteiten - Instellen](filtering-email-bot-activities/setup.md)
+   + [Bezig met filteren van e-mailbot-activiteiten - Instellen](/help/filtering-email-bot-activities/setup.md)
 + Kanaaloverschrijdende marketing {#cross-channel-marketing}
    + [Forms doorlopen](/help/email-marketing/forms-watch.md)
    + [Integratie van mobiele marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)
