@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13258
 thumbnail: 3419622.jpeg
-source-git-commit: 4db7653b7d3f978d47b5f01feee30ef07c6334f3
+source-git-commit: 5fc4567ae77bb4d45509c19d86533645fadca1ed
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -29,8 +29,8 @@ Raadpleeg de desbetreffende producthandleidingen voor meer informatie:
 
 Bekijk aanvullende video&#39;s voor meer informatie over deze functie:
 * [Gebeurtenissen lopen door](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [Webinars Doorlopen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [Webinars lopen door](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
 
 Leer van uw collega&#39;s hoe u gebeurtenisprogramma&#39;s kunt gebruiken:
-* [Deskundige klantenblog: Gebeurtenisprogramma&#39;s](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
+* [Expert bericht op klantenblog: Gebeurtenisprogramma&#39;s](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
 
