@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '254'
 ht-degree: 6%
 
 ---
@@ -19,13 +19,19 @@ ht-degree: 6%
    + [Content marketing](/help/fundamentals/content-marketing-learn.md)
    + [Personen van koper](/help/fundamentals/buyer-personas-learn.md)
    + [Programma&#39;s en campagnes](/help/fundamentals/programs-and-campaigns.md)
-+ Aan de slag {#get-started}
-   + [Navigeren door de gebruikersinterface](/help/get-started/ui-navigation.md)
+   + [Navigeren door de gebruikersinterface](/help/fundamentals/ui-navigation.md)
+   + Programma&#39;s en campagnes {#programs}
+      + [Programma&#39;s en campagnes](help/programs/understanding-programs-and-campaigns.md)
+      + [Standaardprogramma&#39;s](/help/programs/default-programs.md)
+      + [E-mailprogramma&#39;s](/help/programs/email-programs.md)
+      + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
+      + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
 + Programma&#39;s {#programs}
-   + [Overzicht van standaardprogramma&#39;s](/help/programs/default-programs-overview.md)
-   + [Overzicht van e-mailprogramma&#39;s](/help/programs/email-programs-overview.md)
-   + [Overzicht van gebeurtenisprogramma&#39;s](/help/programs/event-programs-overview.md)
-   + [Overzicht van serviceprogramma&#39;s](/help/programs/engagement-programs-overview.md)
+   + [Programma&#39;s en campagnes](help/programs/understanding-programs-and-campaigns.md)
+   + [Standaardprogramma&#39;s](/help/programs/default-programs.md)
+   + [E-mailprogramma&#39;s](/help/programs/email-programs.md)
+   + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
+   + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
 + E-mailmarketing {#email-marketing}
    + [Geplande e-mail](/help/email-marketing/scheduled-email-learn.md)
    + [Geplande e-maildoorloop](/help/email-marketing/scheduled-email-watch.md)
