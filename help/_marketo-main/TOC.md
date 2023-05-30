@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
+source-git-commit: 688b3906f03b84e9d5e7233a2646fec76976aa93
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 5%
+source-wordcount: '259'
+ht-degree: 6%
 
 ---
 
@@ -20,14 +20,9 @@ ht-degree: 5%
    + [Personen van koper](/help/fundamentals/buyer-personas-learn.md)
    + [Programma&#39;s en campagnes](/help/fundamentals/programs-and-campaigns.md)
    + [Navigeren door de gebruikersinterface](/help/fundamentals/ui-navigation.md)
-   + Programma&#39;s en campagnes {#programs}
-      + [Programma&#39;s en campagnes](help/programs/understanding-programs-and-campaigns.md)
-      + [Standaardprogramma&#39;s](/help/programs/default-programs.md)
-      + [E-mailprogramma&#39;s](/help/programs/email-programs.md)
-      + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
-      + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
-+ Programma&#39;s {#programs}
-   + [Programma&#39;s en campagnes](help/programs/understanding-programs-and-campaigns.md)
+   + [Programma&#39;s en campagnes begrijpen](help/fundamentals/understand-programs-and-campaigns.md)
++ Programma&#39;s en campagnes {#programs}
+   + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
    + [Standaardprogramma&#39;s](/help/programs/default-programs.md)
    + [E-mailprogramma&#39;s](/help/programs/email-programs.md)
    + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
