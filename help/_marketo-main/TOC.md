@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: 7692d20ca3c21456a182afbf7585978f12506659
+source-git-commit: 8f0457d4d038796dd1c3e1a0cf8a6f4c55ffca89
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '263'
 ht-degree: 6%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 6%
    + [E-mailprogramma&#39;s](/help/programs/email-programs.md)
    + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
    + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
+   + [Slimme campagnes 101](/help/campaigns/smart-campaigns-101.md)
 + E-mailmarketing {#email-marketing}
    + [Geplande e-mail](/help/email-marketing/scheduled-email-learn.md)
    + [Geplande e-maildoorloop](/help/email-marketing/scheduled-email-watch.md)
