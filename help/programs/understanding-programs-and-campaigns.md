@@ -1,13 +1,17 @@
 ---
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+title: Programma's en campagnes
+description: Trek, verkrijg en activeer uw publiek door een marketingstrategie voor content te ontwikkelen.
+role: User
+level: Beginner
+kt: 13203
+thumbnail: 3418042.jpg
+source-git-commit: 512f8725093d655a2145551f06b73831c6185d0d
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '20'
 ht-degree: 0%
 
 ---
-titel: Beschrijving van programma&#39;s en campagnes: Trek, verkrijg en activeer uw publiek door een marketingstrategie voor content te ontwikkelen.
-rol: Gebruikersniveau: Beginnerkt: Miniatuur 13203: 3418042,jpg
----
+
 
 # Programma&#39;s en campagnes
 
