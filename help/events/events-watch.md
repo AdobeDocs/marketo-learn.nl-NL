@@ -3,10 +3,10 @@ title: Een gebeurtenisprogramma maken
 description: Leer hoe u een 'trade show event'-programma maakt dat is gebaseerd op een vooraf ontwikkeld programma in Marketo.
 role: User
 level: Beginner
-kt: 10754
+jira: KT-10754
 thumbnail: 345473.jpeg
 exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
-source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Leer hoe u een &#39;trade show event&#39;-programma maakt dat is gebaseerd op ee
 
 Raadpleeg de producthandleiding voor meer informatie over het maken van een gebeurtenisprogramma:
 
-* [ Documentatie voor een nieuw gebeurtenisprogramma maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Documentatie voor een nieuw gebeurtenisprogramma maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)

@@ -1,12 +1,12 @@
 ---
-title: Live gaan met Dynamic Chat in slechts 15 minuten
+title: Ga in slechts 15 minuten live met Dynamic Chat
 description: Een stapsgewijze handleiding waarmee u in slechts 15 minuten uw eerste dialoogvenster kunt openen met Dynamic Chat!
 role: User
 level: Beginner
-kt: 10239
+jira: KT-10239
 thumbnail: 342164.jpeg
 exl-id: d0e8df26-e09e-4330-a74b-06c81ed7ce14
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%

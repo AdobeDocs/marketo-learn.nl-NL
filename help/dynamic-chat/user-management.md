@@ -1,14 +1,14 @@
 ---
 title: Gebruikers van Dynamic Chat toevoegen en beheren
-description: Leer hoe u met Adobe Admin Console toegang tot Dynamic Chat-gebruikers beheert.
+description: Leer hoe u Adobe Admin Console kunt gebruiken om de toegang van gebruikers van Dynamics Chat te beheren.
 role: User
 level: Beginner
-kt: 9686
+jira: KT-9686
 thumbnail: 340249.jpeg
 exl-id: c6007829-9831-4259-a37e-20a2d318734f
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -22,5 +22,5 @@ Uw [!UICONTROL Dynamic Chat]  gebruikers via Adobe Admin Console.
 ## Meer nuttige video&#39;s
 
 * [Aangepaste dialoogvensters maken en beheren](dialogue-management.md)
-* [Marketo-integratie activeren met [!UICONTROL Dynamic Chat] ](marketo-integration.md)
+* [Marketo-integratie activeren met [!UICONTROL Dynamic Chat]](marketo-integration.md)
 * [Laat uw lood aan boekvergaderingen met uw verkoop toe](meeting-booking.md)

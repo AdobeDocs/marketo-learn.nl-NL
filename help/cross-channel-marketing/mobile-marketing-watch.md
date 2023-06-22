@@ -3,12 +3,12 @@ title: Mobiele marketing integreren met Marketo
 description: Kijk hoe je persoonlijke gegevens van kopers kunt maken, KPI's kunt instellen, je communicatiecadence kunt bepalen, [!DNL Marketo’s] De Kalender van de marketing, en meer om uw mobiele marketing strategie te verbeteren.
 role: User
 level: Beginner
-kt: 10729
+jira: KT-10729
 thumbnail: 345402.jpeg
 exl-id: 8e82a586-2001-4b7e-a2d4-073e78045854
-source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
