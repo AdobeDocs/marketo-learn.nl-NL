@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: 7ebebfe56632209babc5a5a27ae21fbdcdf4fdac
+source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 5%
@@ -23,12 +23,12 @@ ht-degree: 5%
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
    + [Slimme campagnes 101](/help/campaigns/smart-campaigns-101.md)
-   + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
-   + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
    + [E-mailprogramma&#39;s](/help/programs/email-programs.md)
+   + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
    + Standaardprogramma&#39;s {#default-programs}
       + [Een standaardprogramma maken en meten](/help/programs/create-and-measure-default-programs.md)
       + [De flexibiliteit van standaardprogramma&#39;s benutten](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
 + E-mailmarketing {#email-marketing}
    + [Geplande e-mail](/help/email-marketing/scheduled-email-learn.md)
    + [Geplande e-maildoorloop](/help/email-marketing/scheduled-email-watch.md)
