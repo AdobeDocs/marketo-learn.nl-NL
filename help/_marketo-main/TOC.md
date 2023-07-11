@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '277'
 ht-degree: 5%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 5%
    + [Personen van koper](/help/fundamentals/buyer-personas-learn.md)
    + [Programma&#39;s en campagnes](/help/fundamentals/programs-and-campaigns.md)
    + [Navigeren door de gebruikersinterface](/help/fundamentals/ui-navigation.md)
+   + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
    + [Slimme campagnes 101](/help/campaigns/smart-campaigns-101.md)
@@ -87,9 +89,6 @@ ht-degree: 5%
    + [CRM-synchronisatie](/help/lead-and-data-management/crm-sync-learn.md)
    + [Levenscyclus lood](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Doorloop van levenscyclus van lood](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Instantiebeheer {#instance-management}
-   + [Aanbevolen procedures](/help/instance-management/best-practice-learn.md)
-   + [Best practices doorlopen](/help/instance-management/best-practice-watch.md)
 + Gebeurtenissen {#events}
    + [Gebeurtenissen doorlopen](/help/events/events-watch.md)
    + [Een gebeurtenisprogramma maken](/help/events/events-learn.md)
