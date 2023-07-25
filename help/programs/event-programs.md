@@ -7,13 +7,14 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13258
 thumbnail: 3419622.jpeg
-source-git-commit: 91d39bd1ca4211fc20318875677936399d0b828b
+exl-id: e5acbd36-011d-4ad4-b881-d21227bc37da
+feature: Programs
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Gebeurtenisprogramma&#39;s
 
@@ -33,4 +34,3 @@ Bekijk aanvullende video&#39;s voor meer informatie over deze functie:
 
 Leer van uw collega&#39;s hoe u gebeurtenisprogramma&#39;s kunt gebruiken:
 * [Expert bericht op klantenblog: Gebeurtenisprogramma&#39;s](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
-

@@ -4,9 +4,10 @@ description: Logboekregistratie voor verkoopactiviteiten configureren om [!DNL S
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+feature: Sales Insight Actions
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
@@ -19,5 +20,5 @@ Leer hoe te vormen en de activiteiten van de Acties van het Inzicht van de Verko
 
 ## Verwante video&#39;s
 
-* [Overzicht van de acties van het Verzicht](/help/sales-insight-actions/sales-insight-actions-overview.md){target=&quot;_blank&quot;}
-* [Toegang tot uw [!DNL Sales Insight Actions] Instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target=&quot;_blank&quot;}
+* [Overzicht van de acties van het Verzicht](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [Toegang tot uw [!DNL Sales Insight Actions] Instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

@@ -8,7 +8,8 @@ last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12966
 thumbnail: 3416924.jpeg
 exl-id: 19ccc619-50f9-4737-875c-8f87f55a0183
-source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
+feature: Dynamic Chat
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -23,6 +24,6 @@ Mogelijk weet u al hoe u een dialoogvenster kunt maken dat niet-Engels is (als d
 
 ## Meer nuttige video&#39;s
 
-* [Gebruikers van [!UICONTROL Dynamic Chat] ](user-management.md)
+* [Gebruikers van [!UICONTROL Dynamic Chat]](user-management.md)
 * [Aangepaste dialoogvensters maken en beheren](dialogue-management.md)
-* [Marketo-integratie activeren met [!UICONTROL Dynamic Chat] ](marketo-integration.md)
+* [Marketo-integratie activeren met [!UICONTROL Dynamic Chat]](marketo-integration.md)
