@@ -6,7 +6,7 @@ role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 feature: Programs, Events
-source-git-commit: a80bf39486992aa7a11988e6517197860b60e6c2
+source-git-commit: c34985e01043b34d8f749a1cd0b4e3a83c2efbc6
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Het ontwerpen van een effectief Interactief Webinar is de eerste stap om ervoor te zorgen dat de levering van uw webinar gebeurtenis aansprekend en memorabel is. Als marketeer hebt u verschillende doelstellingen voor het aanbieden van een webinar, zoals het laten zien van uw product om leads te genereren, het ontwikkelen van een concept of een technologie om interesse te wekken, het aanbieden van een workshop om leads te ontvangen, en meer. De verschillende doelstellingen vereisen verschillende strategieën om ervoor te zorgen dat u webinar op een optimale manier verstrekt om aan de behoeften van de diverse publiekssegmenten te voldoen om ervoor te zorgen dat u de juiste participatie en betrokkenheid hebt om uw doelstellingen te bereiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418602?q=9)
+>[!VIDEO](https://video.tv.adobe.com/v/3418602?quality=12&learn=on)
