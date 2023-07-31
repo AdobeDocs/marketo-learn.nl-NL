@@ -1,6 +1,6 @@
 ---
 title: Geneste campagnes voor de toewijzing van betrokkenheid
-description: Ontgrendel onderling verbonden en diep genestelde campagnes om de volledige klantenreis beter zichtbaar te maken gebruikend de Kaart van de Betrokkenheid.
+description: Leer hoe u onderling verbonden en diep geneste campagnes kunt ontcijferen om de volledige reis van de klant beter zichtbaar te maken met de Engagement Map.
 feature: Smart Campaigns
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-31T00:00:00Z
 jira: KT-13741
 thumbnail: 3422235.jpeg
-source-git-commit: 8296e335005687d23bba7e67684669ca056b67cf
+source-git-commit: 9673f463cb97b66512f31cb22398dd487cc4e036
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Geneste campagnes voor de toewijzing van betrokkenheid
 
-Ontgrendel onderling verbonden en diep genestelde campagnes om de volledige klantenreis beter zichtbaar te maken gebruikend de Kaart van de Betrokkenheid.
+Leer hoe u onderling verbonden en diep geneste campagnes kunt ontcijferen om de volledige reis van de klant beter zichtbaar te maken met de Engagement Map.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on)
