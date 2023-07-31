@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 5%
 
 ---
@@ -32,6 +32,10 @@ ht-degree: 5%
       + [Een standaardprogramma maken en meten](/help/programs/create-and-measure-default-programs.md)
       + [De flexibiliteit van standaardprogramma&#39;s benutten](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
+   + Betrokkenheidskaarten {#engagement-maps}
+      + [Overzicht van de betrokkenheidskaart](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [Geneste campagnes voor de toewijzing van betrokkenheid](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [Detectie en resolutie van fouten in de betrokkenheidskaart](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + E-mailmarketing {#email-marketing}
    + [Geplande e-mail](/help/email-marketing/scheduled-email-learn.md)
    + [Geplande e-maildoorloop](/help/email-marketing/scheduled-email-watch.md)
@@ -46,13 +50,13 @@ ht-degree: 5%
    + [Forms](/help/email-marketing/forms-learn.md)
    + [E-maillevering](/help/email-marketing/email-deliverability-learn.md)
    + [E-mailleverbaarbaarheid doorlopen](/help/email-marketing/email-deliverability-watch.md)
-   + [E-mail met activering](/help/email-marketing/triggered-email-learn.md)
+   + [E-mail geactiveerd](/help/email-marketing/triggered-email-learn.md)
    + [E-maildoorloop geactiveerd](/help/email-marketing/triggered-email-watch.md)
    + [Loodvoeding](/help/email-marketing/lead-nuturing-learn.md)
    + [Dynamische en voorspelbare inhoud](/help/email-marketing/dynamic-and-predictive-content-learn.md)
    + [Bezig met filteren van e-mailbot-activiteiten - Instellen](/help/filtering-email-bot-activities/setup.md)
 + Kanaaloverschrijdende marketing {#cross-channel-marketing}
-   + [Forms doorlopen](/help/email-marketing/forms-watch.md)
+   + [Forms-doorloop](/help/email-marketing/forms-watch.md)
    + [Integratie van mobiele marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)
    + [Doorloop voor mobiele marketing](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO en PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
@@ -61,9 +65,9 @@ ht-degree: 5%
    + [Doorloop voor sociale marketing](/help/cross-channel-marketing/social-marketing-watch.md)
    + [Webpersonalisatie](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Doorloop voor webpersonalisatie](/help/cross-channel-marketing/web-personalization-watch.md)
-+ Dynamische chat {#dynamic-chat}
-   + [Dynamische chatzelfstudies](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [Producttour](/help/dynamic-chat/product-tour.md)
++ Dynamic Chat {#dynamic-chat}
+   + [Zelfstudies voor Dynamics Chat](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [Productrondleiding](/help/dynamic-chat/product-tour.md)
    + [Instellen en installeren](/help/dynamic-chat/setup.md)
    + [Marketo-integratie](/help/dynamic-chat/marketo-integration.md)
    + [Gebruikersbeheer](/help/dynamic-chat/user-management.md)
