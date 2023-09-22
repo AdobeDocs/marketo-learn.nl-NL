@@ -7,9 +7,9 @@ jira: KT-9697
 thumbnail: 340473.jpeg
 exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 16%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 [!UICONTROL Dynamic Chat]  is een nieuwe chatbooplossing die is ontwikkeld voor marketing en verkoop. Het is geïntegreerd met [!DNL Marketo Engage], waarmee u [!UICONTROL Dynamic Chat]  als een nieuw kanaal in uw cross-channel marketing. Het is eenvoudig te gebruiken en gemakkelijk op te zetten. Volg een korte rondleiding door het product:
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
 
 ## Meer nuttige video&#39;s
 

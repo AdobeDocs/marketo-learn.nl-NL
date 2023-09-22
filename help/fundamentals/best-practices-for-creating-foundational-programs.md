@@ -8,9 +8,9 @@ last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13567
 thumbnail: 3421275.jpeg
 feature: Programs
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lees de vier programmatypen, hoe u programma&#39;s importeert, hoe u scoring-programma&#39;s uitvoert en hoe u kanaaltags definieert. Meer informatie over algemene gebruiksgevallen en aanbevolen procedures.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
 
 ## Aanvullende bronnen
 
@@ -28,7 +28,7 @@ Lees de vier programmatypen, hoe u programma&#39;s importeert, hoe u scoring-pro
 
 * [Programma&#39;s begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
 * [Een programma maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
-* [Aanbevolen procedures: Uw programma&#39;s ordenen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
+* [Beste praktijken: Hoe te om Uw Programma&#39;s te organiseren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
 * [Een programma importeren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
 * [Tags begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
 * [De Definitieve gids voor het Scoren van de Lood](https://business.adobe.com/resources/guides/lead-scoring.html)
