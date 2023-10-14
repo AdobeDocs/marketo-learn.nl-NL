@@ -10,9 +10,9 @@ last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: true
-source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
+source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Het overnemen van een instantie van een Marketo Engage kan een stressvolle tijd 
 
 In deze zelfstudie, zullen wij u door de belangrijkste secties binnen Marketo Engage, met inbegrip van Admin, de Activiteiten van de Marketing, de Studio van het Ontwerp, en het Gegevensbestand lopen, en u van uiteinden voor controle en optimalisering langs de weg voorzien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)

@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Aanpassen aan tokens](/help/personalization/personalize-with-tokens.md)
-   + [Controle van overerfde instanties](/help/fundamentals/inherted-instance-audit.md)
+   + [Een overgeërfde instantie controleren](/help/fundamentals/inherted-instance-audit.md)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
    + [Slimme campagnes 101](/help/campaigns/smart-campaigns-101.md)
@@ -91,8 +91,8 @@ ht-degree: 5%
    + [Toegang tot uw exemplaar van Handelingen van het Inzicht van de Verkoop](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Logbestand van verkoopactiviteiten configureren voor [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Beheer van leads en gegevens {#lead-and-data-management}
-   + [Loodscores](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Doorloop voor toonaangevende scoring](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Leider-/persoonscores](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [Doorloop voor scoren van leads/personen](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Abonnementencentrum](/help/lead-and-data-management/subscription-center-learn.md)
    + [Doorloop voor abonnementencentrum](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-synchronisatie](/help/lead-and-data-management/crm-sync-learn.md)
