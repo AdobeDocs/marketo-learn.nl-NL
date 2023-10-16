@@ -9,7 +9,7 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
-source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
+source-git-commit: 94ed2bdf9c0427e4d18c04921b55008773b6736a
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Creeer een visueel gegevensstroomdiagram om uw marketing technologiestapel te begrijpen
 
-Als beheerder die een [!DNL Marketo Engage] het is een missie die al jarenlang actief is en die onmogelijk kan worden gecontroleerd en opgehelderd . Wanneer Adobe [!DNL Marketo Champion](2019)Kelly Jo Horton stapte in een lang gevestigde zaak en ze pakt deze uitdaging aan door [het creëren van een diagram van &quot;Lood en gegevensbronnen&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} om zich vertrouwd te maken met het gegevensuniversum. In deze zelfstudie leert u hoe u uw eigen gegevensstroomdiagram kunt maken door voort te bouwen op de voorbeelden die Kelly Jo Horton deelt. Laten we je MarTech-ecosysteem leren kennen!
+Als beheerder die een [!DNL Marketo Engage] het is een missie die al jarenlang actief is en die onmogelijk kan worden gecontroleerd en opgehelderd . Wanneer Adobe [!DNL Marketo Champion] (2019), Kelly Jo Horton, die al lang in een instantie zit, heeft deze uitdaging aangepakt door [het creëren van een diagram van &quot;Lood en gegevensbronnen&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} om zich vertrouwd te maken met het gegevensuniversum. In deze zelfstudie leert u hoe u uw eigen gegevensstroomdiagram kunt maken door voort te bouwen op de voorbeelden die Kelly Jo Horton deelt. Laten we je MarTech-ecosysteem leren kennen!
 
 ## Waarom creeer een architectuurdiagram voor uw geërfte instantie?
 
