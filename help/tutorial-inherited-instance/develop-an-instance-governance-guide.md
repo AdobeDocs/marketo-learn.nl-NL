@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Als u een oudere versie ingaat [!DNL Marketo Engage] bijvoorbeeld, komt het vaak met de uitdaging om bijgewerkte functionele en technische documentatie te missen. Als beheerder is het opstellen van richtlijnen voor een goed beheer van instanties een kernverantwoordelijkheid die u niet over het hoofd kunt zien. Het is een van de kritische strategieën om [de efficiency van de aandrijving aangezien u in een gevestigde instantie van het Marketo Engage werkt](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-Deze stapsgewijze zelfstudie is afkomstig van [!DNL Adobe Marketo Champion], Nick Hajdin, zal u door dit proces begeleiden om uw instantieopstelling te schetsen, uw primaire operationele programma&#39;s te documenteren en te handhaven [!DNL changelog] een strikt governancebeleid te handhaven.
+Deze stapsgewijze zelfstudie is afkomstig van [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, zal u door dit proces begeleiden om uw instantie-instelling te schetsen, uw primaire operationele programma&#39;s te documenteren en een [!DNL changelog] een strikt governancebeleid te handhaven.
 
 ## Waarom ontwikkelt u een handleiding en documentatie voor instantiebeheer voor uw overgeërfde instantie?
 

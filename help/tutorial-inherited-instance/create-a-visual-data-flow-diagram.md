@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-03T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Creeer een visueel gegevensstroomdiagram om uw marketing technologiestapel te begrijpen
 
-Als beheerder die een [!DNL Marketo Engage] het is een missie die al jarenlang actief is en die onmogelijk kan worden gecontroleerd en opgehelderd . Wanneer Adobe [!DNL Marketo Champion]Kelly Jo Horton stapte in een lang gevestigde zaak en ze pakt deze uitdaging aan door [het creëren van een diagram van &quot;Lood en gegevensbronnen&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} om zich vertrouwd te maken met het gegevensuniversum. In deze zelfstudie leert u hoe u uw eigen gegevensstroomdiagram kunt maken door voort te bouwen op de voorbeelden die Kelly Jo Horton deelt. Laten we je MarTech-ecosysteem leren kennen!
+Als beheerder die een [!DNL Marketo Engage] het is een missie die al jarenlang actief is en die onmogelijk kan worden gecontroleerd en opgehelderd . Wanneer Adobe [!DNL Marketo Champion](2019)Kelly Jo Horton stapte in een lang gevestigde zaak en ze pakt deze uitdaging aan door [het creëren van een diagram van &quot;Lood en gegevensbronnen&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} om zich vertrouwd te maken met het gegevensuniversum. In deze zelfstudie leert u hoe u uw eigen gegevensstroomdiagram kunt maken door voort te bouwen op de voorbeelden die Kelly Jo Horton deelt. Laten we je MarTech-ecosysteem leren kennen!
 
 ## Waarom creeer een architectuurdiagram voor uw geërfte instantie?
 
@@ -124,7 +124,7 @@ Dit zijn enkele gereedschappen die u kunt gebruiken: draw.io (Google Docs), Adob
 ## Auteurs
 
 **Kelly Jo Horton**\
-Adobe Marketo Champion Alumnus
+Adobe Marketo Champion (2019)
 *Senior Client Partner in Etumos*
 
 ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
