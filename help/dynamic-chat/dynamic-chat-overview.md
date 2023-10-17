@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 9%
+source-wordcount: '349'
+ht-degree: 8%
 
 ---
 
@@ -48,6 +48,8 @@ Welkom bij de [!UICONTROL Dynamic Chat]  website voor zelfstudies. Gebruik deze 
      *Een voorvertoning van uw dialoogvenster weergeven voordat u het publiceert, is bijzonder eenvoudig met de voorvertoningsfunctie in het dialoogvenster.*
    * **[Globalisatie van statische inhoud](globalization-of-static-content.md)**
      *U kunt statische inhoud/systeeminhoud aanpassen aan de taal van uw keuze.*
+   * **[Gesprek Forms](conversational-forms.md)**
+     *Leer hoe u direct na het invullen van een formulier contact kunt opnemen met uw websitebezoekers.*
 * Live chatten en boeken van vergaderingen
    * **[Live chat instellen](set-up-live-chat.md)**
      *Leer hoe u Live Chat instelt.*
