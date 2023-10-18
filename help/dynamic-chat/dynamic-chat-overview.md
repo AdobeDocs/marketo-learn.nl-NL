@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 8%
+source-wordcount: '385'
+ht-degree: 7%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 8%
 Welkom bij de [!UICONTROL Dynamic Chat]  website voor zelfstudies. Gebruik deze zelfstudies samen met de documentatie om meer inzicht te krijgen in het gebruik van [!UICONTROL Dynamic Chat]  om persoonlijke gesprekken te maken. De volgende onderwerpen kunnen u helpen aan de slag gaan:
 
 * Overzicht
-   * **[Een snelle productrondleiding](product-tour.md)**
+   * **[Een snelle producttour [2023]](product-tour.md)**
+     *Bekijk een overzicht van alle nieuwe functies die in 2023 zijn gestart.*
+   * **[A quick product tour [2022]](product-tour.md)**
      *Bekijk een overzicht van het volledige product en leer hoe je gebruik kunt maken van [!UICONTROL Dynamic Chat].*
    * **[Ga live in 15 minuten](go-live-in-15-minutes.md)**
      *Een stapsgewijze handleiding om u te helpen live te gaan met uw eerste dialoogvenster [!UICONTROL Dynamic Chat]  over slechts 15 minuten!*
@@ -50,9 +52,11 @@ Welkom bij de [!UICONTROL Dynamic Chat]  website voor zelfstudies. Gebruik deze 
      *U kunt statische inhoud/systeeminhoud aanpassen aan de taal van uw keuze.*
    * **[Gesprek Forms](conversational-forms.md)**
      *Leer hoe u direct na het invullen van een formulier contact kunt opnemen met uw websitebezoekers.*
+   * **[Gesprek SDK](conversations-sdk.md)**
+     *Leer hoe te om Conversations SDK uit te voeren om het even welke klik CTA in een het in dienst nemen gesprek om te zetten.*
 * Live chatten en boeken van vergaderingen
-   * **[Live chat instellen](set-up-live-chat.md)**
-     *Leer hoe u Live Chat instelt.*
+   * **[Bezoekers verbinden met actieve agenten](connect-visitors-to-live-agents.md)**
+     *Verbind uw gekwalificeerde lood om met uw verkoopagenten onmiddellijk in dienst te nemen.*
    * **[Laat uw lood aan boekvergaderingen met uw verkoop toe](meeting-booking.md)**
      *Versnel de verbinding met verkoop voor die [!DNL target] accounts met Meeting-boekingsfuncties.*
 * Analyse

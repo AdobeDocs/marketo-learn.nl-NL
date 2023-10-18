@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 5%
 
 ---
@@ -69,13 +69,15 @@ ht-degree: 5%
    + [Doorloop voor webpersonalisatie](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
    + [Zelfstudies voor Dynamics Chat](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [Productrondleiding](/help/dynamic-chat/product-tour.md)
+   + [Producttour [2023]](/help/dynamic-chat/product-tour.md)
+   + [Product tour [2022]](/help/dynamic-chat/product-tour-2022.md)
    + [Instellen en installeren](/help/dynamic-chat/setup.md)
    + [Marketo-integratie](/help/dynamic-chat/marketo-integration.md)
    + [Gebruikersbeheer](/help/dynamic-chat/user-management.md)
    + [Gesprek Forms](/help/dynamic-chat/conversational-forms.md)
+   + [Gesprek SDK](/help/dynamic-chat/conversations-sdk.md)
    + [Dialoogbeheer](/help/dynamic-chat/dialogue-management.md)
-   + [Live chat instellen](/help/dynamic-chat/set-up-live-chat.md)
+   + [Bezoekers verbinden met actieve agenten](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [Agent-beheer](/help/dynamic-chat/agent-management.md)
    + [Vergaderingsboekingen](/help/dynamic-chat/meeting-booking.md)
    + [Ga live in 15 minuten](/help/dynamic-chat/go-live-in-15-minutes.md)
