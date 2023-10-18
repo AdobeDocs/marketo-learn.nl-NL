@@ -10,9 +10,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: 5f3967df0b98e8b4d6c576a3e7f0b26141694240
+source-git-commit: c17bb1f36eb29538374475b3082bdd5cb7f37fd3
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Leer hoe Marketo Engage en Salesforce samenwerken om uw verkoop- en marketinggeg
 >[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
 
 ## Aanvullende bronnen
-
-* [Werken met Salesforce Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 * [Salesforce Sync instellen (Enterprise/Onbeperkt)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html?lang=en)
 
