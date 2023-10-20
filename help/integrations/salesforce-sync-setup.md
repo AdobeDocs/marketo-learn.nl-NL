@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
 
 # Aan de slag met Salesforce-synchronisatie
-
-*Bron: Adobe Marketo Champions*
 
 Leer hoe Marketo Engage en Salesforce samenwerken om uw verkoop- en marketinggegevens synchroon te houden. In deze zelfstudie wordt uitgelegd hoe de synchronisatie werkt, wordt de synchronisatie zo ingesteld dat de juiste gegevensstroom plaatsvindt en worden de belangrijkste zaken gecontroleerd om te controleren of de synchronisatie goed werkt. Extra tips en trucs voor het beheren van uw Salesforce-synchronisatie worden gedeeld om u te helpen de velden voor synchronisatie selecteren en de velden verbergen die u niet meer nodig hebt.
 
