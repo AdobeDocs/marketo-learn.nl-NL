@@ -9,7 +9,7 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
+source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Logboek CRM-synchronisatiefouten voor eenvoudige probleemoplossing
 
-Als beheerder van het Marketo Engage, zou het controleren of uw instantie synchroon met uw CRM is een zeer belangrijk deel van uw [dagelijkse routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (zoek het op de hoogste juiste hoek van uw interface van het Marketo Engage) is waar u begint om frequente synchronisatiekwesties te vinden en te onderzoeken, is er pro tip die u zou kunnen helpen de instantiegezondheid op een georganiseerde manier beheren.  Amy Goldfine raadt de Adobe van Marketo Champion (2022) aan dat gebruikers een logboek van de fouten van de Synchronisatie van CRM houden om het oplossen van problemen gemakkelijker te maken.
+Als beheerder van het Marketo Engage, zou het controleren of uw instantie synchroon met uw CRM is een zeer belangrijk deel van uw [dagelijkse routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (zoek het op de hoogste juiste hoek van uw interface van het Marketo Engage) is waar u begint om frequente synchronisatiekwesties te vinden en te onderzoeken, is er pro tip die u zou kunnen helpen de instantiegezondheid op een georganiseerde manier beheren. De Adobe van Marketo Champion (2019-2022), Amy Goldfine adviseert admin gebruikers een logboek van de fouten van de Synchronisatie van CRM houden om het oplossen van problemen gemakkelijker te maken.
 
 ![Screenshot van het tabblad Synchronisatiefouten](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
