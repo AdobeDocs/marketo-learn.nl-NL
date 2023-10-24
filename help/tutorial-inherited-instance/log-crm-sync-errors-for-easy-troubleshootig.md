@@ -9,9 +9,9 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
+source-git-commit: b2659102b57cf86f89d524f4786d3101800a0a38
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -52,8 +52,8 @@ Download de [Logsjabloon CRM-synchronisatiefouten](/help/tutorial-inherited-inst
 ## Auteurs
 
 **Amy Goldfine**\
-Adobe Marketo Champion (2022)
-*Senior Manager, Marketing Operations, Interable*
+Adobe Marketo Champion (2019-2022)
+*Oprichter, MarketingOpsAdvice.com*
 
 ![Amy Goldfine](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
