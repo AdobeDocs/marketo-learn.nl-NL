@@ -1,6 +1,6 @@
 ---
 title: Productrondleiding door Dynamic Chat
-description: Leer over Dynamic Chat, een nieuwe praatjeoplossing die voor marketing en verkoop van Adobe wordt gebouwd.
+description: Meer informatie over Dynamic Chat, een nieuwe chatoplossing die is ontwikkeld voor marketing en verkoop van Adobe.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,7 +10,7 @@ thumbnail: 3425033.jpeg
 source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 
