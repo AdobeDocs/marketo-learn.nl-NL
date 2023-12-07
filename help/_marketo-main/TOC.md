@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '322'
 ht-degree: 5%
 
 ---
@@ -87,7 +87,6 @@ ht-degree: 5%
    + [Dialoogvenster](/help/dynamic-chat/dialogue-preview.md)
    + [Betrokkenheidsrapport](/help/dynamic-chat/engagement-report.md)
    + [Globalisatie van statische inhoud](/help/dynamic-chat/globalization-of-static-content.md)
-   + [Rollen en machtigingen](/help/dynamic-chat/roles-and-permissions.md)
 + Handelingen voor het instellen van verkoopgegevens {#sales-insight-actions}
    + [Overzicht](/help/sales-insight-actions/overview.md)
    + [Overzicht van Handelingen in het verkoopinzicht](/help/sales-insight-actions/sales-insight-actions-overview.md)
