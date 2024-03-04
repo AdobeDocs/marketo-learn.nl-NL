@@ -1,16 +1,16 @@
 ---
-title: Zelfstudies voor Marketo's Engage
+title: Marketo Engage-tutorials
 description: Videozelfstudies bekijken op [!DNL Marketo Engage]. Verbeter uw inzicht in het gebruik van marketingautomatiseringsfuncties en meer.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 1f82761deb06722fed6bc49ac3992d0e9f42fec0
+source-git-commit: d28782307c573dd105766a799fc1f03fc473c813
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 25%
+ht-degree: 33%
 
 ---
 
-# [!DNL Marketo Engage] zelfstudies
+# [!DNL Marketo Engage] Tutorials
 
 Blader door onze lesbibliotheek en profiteer van het beste [!DNL Marketo Engage]. Deze zelfstudies kunnen een aanvulling vormen [[!DNL Marketo] productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} om u te helpen uw begrip van de eigenschappen van de marketing automatisering verbeteren.
 
