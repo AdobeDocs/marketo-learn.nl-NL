@@ -3,7 +3,7 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: 5b5a85ecff06d79143be92096083e0e9be5da919
+source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 5%
@@ -98,6 +98,8 @@ ht-degree: 5%
    + [Abonnementencentrum](/help/lead-and-data-management/subscription-center-learn.md)
    + [Doorloop voor abonnementencentrum](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-synchronisatie](/help/lead-and-data-management/crm-sync-learn.md)
+   + [Aan de slag met Salesforce-synchronisatie](/help/integrations/salesforce-sync-setup.md)
+   + [Aan de slag met Microsoft Dynamics Sync](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Levenscyclus lood](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Doorloop van levenscyclus van lood](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Gebeurtenissen {#events}
@@ -110,6 +112,4 @@ ht-degree: 5%
    + [Rapportage en analyse](/help/reporting/reporting-and-analytics.md)
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
 + Integraties {#integrations}
-   + [Aan de slag met Salesforce-synchronisatie](/help/integrations/salesforce-sync-setup.md)
-   + [Aan de slag met Microsoft Dynamics Sync](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Marketo met Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
