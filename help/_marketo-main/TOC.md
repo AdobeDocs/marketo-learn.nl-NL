@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
+source-git-commit: 4237a26e3fe7c6b523b59486afdb161d2fad97e5
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '323'
 ht-degree: 5%
 
 ---
@@ -68,32 +68,26 @@ ht-degree: 5%
    + [Webpersonalisatie](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Doorloop voor webpersonalisatie](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + Aan de slag {#dc-overview}
-      + [Overzicht](/help/dynamic-chat/dynamic-chat-overview.md)
-      + [Producttour [2023]](/help/dynamic-chat/product-tour.md)
-      + [Product tour [2022]](/help/dynamic-chat/product-tour-2022.md)
-      + [Ga live in 15 minuten](/help/dynamic-chat/go-live-in-15-minutes.md)
-   + Instellen {#dc-setup}
-      + [Instellen en installeren](/help/dynamic-chat/setup.md)
-      + [Marketo-integratie](/help/dynamic-chat/marketo-integration.md)
-      + [Gebruikersbeheer](/help/dynamic-chat/user-management.md)
-      + [Agent-beheer](/help/dynamic-chat/agent-management.md)
-   + Geautomatiseerde chat {#dc-automated-chat}
-      + [Dialoogbeheer](/help/dynamic-chat/dialogue-management.md)
-      + [PDF in gesprekken insluiten](/help/dynamic-chat/document-cloud-integration.md)
-      + [Zoeken in Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
-      + [Overgenomen kenmerken vastleggen](/help/dynamic-chat/capture-inferred-attributes.md)
-      + [Dialoogvenster](/help/dynamic-chat/dialogue-preview.md)
-      + [Globalisatie van statische inhoud](/help/dynamic-chat/globalization-of-static-content.md)
-      + [Gesprek Forms](/help/dynamic-chat/conversational-forms.md)
-      + [Gesprek SDK](/help/dynamic-chat/conversations-sdk.md)
-   + Live chatten en boeken van vergaderingen {#dc-live-chat-meeting-booking}
-      + [Bezoekers verbinden met actieve agenten](/help/dynamic-chat/connect-visitors-to-live-agents.md)
-      + [Vergaderingsboekingen](/help/dynamic-chat/meeting-booking.md)
-   + Generatieve AI-chat {#dc-generative-ai-chat}
-      + [Generaal-AI-gesprekken voeren](/help/dynamic-chat/gen-ai-features.md)
-   + Analyse {#dc-analytics}
-      + [Betrokkenheidsrapport](/help/dynamic-chat/engagement-report.md)
+   + [Overzicht](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [Producttour [2023]](/help/dynamic-chat/product-tour.md)
+   + [Product tour [2022]](/help/dynamic-chat/product-tour-2022.md)
+   + [Ga live in 15 minuten](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + [Instellen en installeren](/help/dynamic-chat/setup.md)
+   + [Marketo-integratie](/help/dynamic-chat/marketo-integration.md)
+   + [Gebruikersbeheer](/help/dynamic-chat/user-management.md)
+   + [Agent-beheer](/help/dynamic-chat/agent-management.md)
+   + [Dialoogbeheer](/help/dynamic-chat/dialogue-management.md)
+   + [PDF in gesprekken insluiten](/help/dynamic-chat/document-cloud-integration.md)
+   + [Zoeken in Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
+   + [Overgenomen kenmerken vastleggen](/help/dynamic-chat/capture-inferred-attributes.md)
+   + [Dialoogvenster](/help/dynamic-chat/dialogue-preview.md)
+   + [Globalisatie van statische inhoud](/help/dynamic-chat/globalization-of-static-content.md)
+   + [Gesprek Forms](/help/dynamic-chat/conversational-forms.md)
+   + [Gesprek SDK](/help/dynamic-chat/conversations-sdk.md)
+   + [Bezoekers verbinden met actieve agenten](/help/dynamic-chat/connect-visitors-to-live-agents.md)
+   + [Vergaderingsboekingen](/help/dynamic-chat/meeting-booking.md)
+   + [Generaal-AI-gesprekken voeren](/help/dynamic-chat/gen-ai-features.md)
+   + [Betrokkenheidsrapport](/help/dynamic-chat/engagement-report.md)
 + Handelingen voor het instellen van verkoopgegevens {#sales-insight-actions}
    + [Overzicht](/help/sales-insight-actions/overview.md)
    + [Overzicht van Handelingen in het verkoopinzicht](/help/sales-insight-actions/sales-insight-actions-overview.md)
