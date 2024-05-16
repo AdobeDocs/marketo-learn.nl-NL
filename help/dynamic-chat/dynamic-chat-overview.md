@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 8%
+source-wordcount: '386'
+ht-degree: 7%
 
 ---
 
@@ -57,6 +57,9 @@ Welkom bij de [!UICONTROL Dynamic Chat]  website voor zelfstudies. Gebruik deze 
      *Verbind uw gekwalificeerde lood om met uw verkoopagenten onmiddellijk in dienst te nemen.*
    * **[Laat uw lood aan boekvergaderingen met uw verkoop toe](meeting-booking.md)**
      *Versnel de verbinding met verkoop voor die [!DNL target] accounts met Meeting-boekingsfuncties.*
+* Generatieve AI-chat
+   * **[Generaal-AI-gesprekken voeren](gen-ai-features.md)**
+     *Leer hoe u Dynamic Chat GenAI-functies kunt gebruiken.*
 * Analyse
    * **[Betrokkenheidsrapport](engagement-report.md)**
      *Bekijk de trends van hoe uw webbezoekers uw dialoogvenster bekijken*
