@@ -1,27 +1,23 @@
 ---
-title: Tutorials  van Handelingen van het Inzicht van de Verkoop
+title: Tutorials voor het toezicht op de verkoop
 description: Gebruiken [!UICONTROL Sales Insight Actions] het versnellen van de prospectieve inspanningen met marketinggestuurde intelligentie- en betrokkenheidsinstrumenten in één workflow.
 doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Tutorials  van Handelingen van het Inzicht van de Verkoop
+# Tutorials voor het toezicht op de verkoop
 
 ![](assets/header.png)
 
 Gebruiken [!UICONTROL Sales Insight Actions] het versnellen van de prospectieve inspanningen met marketinggestuurde intelligentie- en betrokkenheidsinstrumenten in één workflow.
-
->[!AVAILABILITY]
->
->Deze functie is momenteel gefaseerd beschikbaar. Neem contact op met uw Customer Success Manager of e-mail `sales-insights(at)adobe(dot)com` om toegang aan te vragen.
 
 ## Aanbevolen Tutorials {#featured-tutorials}
 
@@ -29,7 +25,7 @@ Gebruiken [!UICONTROL Sales Insight Actions] het versnellen van de prospectieve 
 <tr>
 <td>
 <a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><img alt="miniatuurafbeelding voor Overzicht van Handelingen in het venster Verkoopinzicht" src="assets/sales-insight-actions-feature-overview-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Overzicht van de acties van het Verzicht</strong></a></div>
+<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Overzicht van de acties van het Verzicht van de verkoop</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="miniatuurafbeelding voor toegang tot uw exemplaar van Handelingen Handelingen voor het inzicht in de verkoop" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
@@ -63,11 +59,3 @@ Gebruiken [!UICONTROL Sales Insight Actions] het versnellen van de prospectieve 
 </td>
 </tr>
 </table>
-
-## Persoonlijke ondersteuning {#personalized-support}
-
-Als u persoonlijke ondersteuning voor deze functie wilt ontvangen, [een vraag plannen](https://outlook.office365.com/owa/calendar/AdobeInc1@adobe.onmicrosoft.com/bookings/) met het Product Team.
-
-## Een bug/feedback melden {#report-a-bug-feedback}
-
-Als u een probleem tegenkomt of algemene feedback over deze functie hebt, kunt u een e-mail sturen naar `sales-insights(at)adobe(dot)com`.
