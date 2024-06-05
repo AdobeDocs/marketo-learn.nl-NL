@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '357'
 ht-degree: 5%
 
 ---
@@ -109,7 +109,13 @@ ht-degree: 5%
    + [Een gebeurtenisprogramma maken](/help/events/events-learn.md)
    + [Webinars](/help/events/webinar-learn.md)
    + [Doorloop voor webinars](/help/events/webinar-watch.md)
+   + [Interactieve webinars - gebruikers- en licentiebeheer](/help/events/interactive-webinars-user-and-license-management.md)
+   + [Interactive Webinars Event Program Creation](/help/events/interactive-webinars-event-program-creation.md)
+   + [Overzicht interactieve webinars-gebeurtenisprogramma](/help/events/interactive-webinars-event-program-overview.md)
+   + [Interactieve webinars-gebeurtenisconfiguratie](/help/events/interactive-webinars-event-configuration.md)
    + [Ontwerp een effectief interactief webinar](/help/events/design-an-effective-interactive-webinar.md)
+   + [Interactieve webinars gebeurtenislevering](/help/events/interactive-webinars-event-delivery.md)
+   + [Interactieve webinars na gebeurtenissen; inzichten en acties](/help/events/interactive-webinars-post-event-insights-and-actions.md)
 + Rapportage en analyse {#reporting}
    + [Rapportage en analyse](/help/reporting/reporting-and-analytics.md)
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
