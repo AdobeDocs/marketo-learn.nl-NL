@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 119
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15700
-source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
+exl-id: 71feb0cc-3f3e-4396-8bb0-21dbc244cfc8
+source-git-commit: e7d640c69d32829850d1b7628273bc79130944b2
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-
 # Interactieve webinars gebeurtenislevering
 
-Leer hoe u uw interactieve webinars-gebeurtenis optimaal kunt aanbieden om uw doel te bereiken en de deelnemers erbij te betrekken om ervoor te zorgen dat de inhoud interesse wekt en dat de marketers hun intentie kunnen opvragen via verschillende betrokkenheidsprogramma&#39;s om een betere segmentering en persoonlijke verpleging te helpen.
+Leer hoe u uw interactieve webinars-gebeurtenis op een optimale manier kunt aanbieden om uw doel te bereiken en de deelnemers erbij te betrekken. Zorg ervoor dat uw inhoud interesse wekt, zodat u de intentie kunt opvragen via verschillende betrokkenheidsprogramma&#39;s om een beter gepersonaliseerde verzorging en segmentering te bevorderen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
