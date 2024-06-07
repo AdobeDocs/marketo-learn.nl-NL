@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: 74b4a255c218fd12a2ff72606212d8a748d94d81
+source-git-commit: 8919161d4e84849a69e862245eaec36a88590db5
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '363'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Aanpassen aan tokens](/help/personalization/personalize-with-tokens.md)
-   + [Een nieuwe instantie implementeren](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Een nieuw exemplaar implementeren - zelfstudie](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Een overgeërfde instantie controleren - Zelfstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
