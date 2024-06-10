@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 7%
+source-wordcount: '444'
+ht-degree: 6%
 
 ---
 
@@ -52,6 +52,8 @@ Welkom bij de [!UICONTROL Dynamic Chat]  website voor zelfstudies. Gebruik deze 
      *Leer hoe u direct na het invullen van een formulier contact kunt opnemen met uw websitebezoekers.*
    * **[Gesprek SDK](conversations-sdk.md)**
      *Leer hoe te om Conversations SDK uit te voeren om het even welke klik CTA in een het in dienst nemen gesprek om te zetten.*
+   * **[Herbruikbare stromen](reusable-flows.md)**
+     *Vereenvoudig het ontwerpen en beheren van uw gesprekken met de nieuwe Conversational Flow-kaart. Maak eenmaal een omzettingsstroom en gebruik deze opnieuw in meerdere dialoogvensters.*
    * **[Conversiebestemmingspagina&#39;s](conversational-landing-pages.md)**
      *Met slechts een paar klikken installeert u de conversie van Dynamics Chat naar elke landingspagina (Marketo Landing Pages of Custom) en converteert u een koppeling of knop om een conversatie-betrokkenheid te activeren.*
 * Live chatten en boeken van vergaderingen
