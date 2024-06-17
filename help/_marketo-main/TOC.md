@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 5%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 5%
 + Grondbeginselen {#fundamentals}
    + [Doelstellingen en strategie](/help/fundamentals/goals-and-strategy-learn.md)
    + [Organisatiestructuur](/help/fundamentals/organizational-structure-learn.md)
+   + [Migreren naar Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Content marketing](/help/fundamentals/content-marketing-learn.md)
    + [Personen van koper](/help/fundamentals/buyer-personas-learn.md)
    + [Programma&#39;s en campagnes](/help/fundamentals/programs-and-campaigns.md)
