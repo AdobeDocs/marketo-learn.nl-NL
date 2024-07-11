@@ -1,14 +1,15 @@
 ---
 title: Zelfstudies voor Dynamics Chat
 description: Meer informatie over Dynamic Chat in Adobe Experience League. Gebruik deze tutorials samen met de documentatie om meer inzicht te krijgen in het gebruik van Dynamic Chat om gepersonaliseerde gesprekken te maken.
+short-description: Gebruik deze zelfstudies samen met de productdocumentatie om uw begrip van de verschillende manieren te verbeteren Dynamic Chat voor u kan werken.
 doc-type: overview-page
 role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '466'
 ht-degree: 6%
 
 ---
