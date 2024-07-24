@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 7bc386aabf05519f2220241f2925955820d40a3e
+source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1089'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ Om ervoor te zorgen dat uw organisatie Adobe Marketo Engage naar de Adobe Admin 
 
 In de video hieronder, begeleidt het team van het Beheer van het Product van het Marketo Engage u door de migratiereis en wat te verwachten.
 
-<iframe title="Video&apos;s publiceren in de Adobe van Cloud Player" width="854" height="480" src="https://video.tv.adobe.com/v/3430920t3/?t=170frameborder=&quot;0&quot;" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe>
+>[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){transcript=true}
 
-Meer hulp op dit onderwerp voor de beheerders van het Marketo Engage:
+Meer hulp op dit onderwerp voor de beheerders van het Marketo Engage kan in de volgende hulpartikelen worden gevonden:
 
 * ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup) {target="_blank"} checklist van de Opstelling van 0} Gebruiker[
 
