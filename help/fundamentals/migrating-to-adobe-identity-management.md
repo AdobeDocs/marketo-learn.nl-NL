@@ -7,7 +7,7 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 7cdfe25c955ef1de485d67dc43440554b2237d40
+source-git-commit: 8c9705b79083fd7b143b88800046180c94d377da
 workflow-type: tm+mt
 source-wordcount: '1053'
 ht-degree: 0%
@@ -130,7 +130,7 @@ ii. Meld u aan bij een bestaande Adobe ID op de aanmeldingspagina van de Adobe.
 
 Wij waarderen uw medewerking tijdens deze overgang. Dank u voor uw begrip en inzet om onze systemen veilig te houden.
 
-Best
+met betrekking tot
 
 `[Your Name]`
 
