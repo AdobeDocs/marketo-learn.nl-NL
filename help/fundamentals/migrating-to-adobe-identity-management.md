@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
+source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Hieronder ziet u een voorbeeld-e-mail die u naar uw systeembeheerders kunt verze
 
 Beste `[IT Administrator/NAME]`,
 
-Ons abonnement op Marketo&#39;s Engage wordt binnenkort gemigreerd naar het Adobe Identity Management System. Het [ team van de Verrichting van de Marketing ] heeft uw hulp nodig om sommige vereiste stappen te voltooien alvorens de gebruikersmigratie begint, om het effect op de gebruikers van het Marketo Engage te minimaliseren
+Ons abonnement op Marketo&#39;s Engage wordt binnenkort gemigreerd naar het Adobe Identity Management System. `[Marketing Operation team]` heeft uw hulp nodig om sommige vereiste stappen te voltooien alvorens de gebruikersmigratie begint, om de gevolgen voor de gebruikers van de Marketo Engage te minimaliseren.
 
 `1.` Bevestig of de organisatie al andere Adobe producten beheert in Adobe Admin Console(s) en of het Marketo Engage naar dezelfde console wordt gemigreerd.
 
@@ -77,7 +77,7 @@ Ons abonnement op Marketo&#39;s Engage wordt binnenkort gemigreerd naar het Adob
 
 `2.` Ga naar de zoekopdracht voor een e-mailbericht vanuit de Adobe met de onderwerpregel &quot;Handeling vereist voor het beheren van gebruikerstoegang tot Adobe Marketo Engage `[Package Tier]`&quot;. Dit e-mailbericht is verzonden nadat de licenties voor het Marketo Engage op onze Admin Console zijn ingericht. Alleen systeembeheerders ontvangen deze e-mail. Gelieve ons onmiddellijk op de hoogte te brengen wanneer u het ontvangt.
 
-* De Adobe kan om toestemming van u, die de Beheerder van het Systeem van de Admin Console is, vragen om gebruikers automatisch aan de bestaande console van onze organisatie te migreren. Klik in de e-mail met de onderwerpregel &quot;Handeling vereist om gebruikerstoegang tot Adobe Marketo Engage te beheren `[Package Tier]`.&quot; op de knop &quot;Aan de slag&quot; om naar de toestemmingspagina te gaan.
+* De Adobe kan om toestemming van u, die de Beheerder van het Systeem van de Admin Console is, vragen om gebruikers automatisch aan de bestaande console van onze organisatie te migreren. Klik in de e-mail met de onderwerpregel &quot;Handeling vereist om gebruikerstoegang tot Adobe Marketo Engage te beheren `[Package Tier]`&quot; op de knop &quot;Aan de slag&quot; om naar de toestemmingspagina te gaan.
 
 `3.` **Facultatief:** Vestiging SSO (Enige Sign On) op Adobe Admin Console.
 
@@ -123,12 +123,12 @@ ii. Een actieve gebruikerssessie is vereist om e-mailverificatie te voltooien. M
 i. Accepteer de nieuwe uitnodiging door op de knop Uitnodiging accepteren te klikken en u aan te melden met Adobe Identity.
 ii. Meld u aan bij een bestaande Adobe ID op de aanmeldingspagina van de Adobe.
 
-`3.` Contact: Als u om het even welke vragen hebt of hulp nodig nadat uw rekening wordt gemigreerd of als uw rekening niet wordt gemigreerd en u toegang tot Marketo Engage verliest, te bereiken gelieve uit aan het team van de Marketo Engage van de migratie bij [ uw interne contact e-mail/telefoon ].
+`3.` Contact opnemen: als u vragen hebt of hulp nodig hebt nadat uw account is gemigreerd of als uw account niet is gemigreerd en u de toegang tot het Marketo Engage verliest, neemt u contact op met het Marketo Engage-migratieteam op `[your internal contact email/phone]` .
 
 Wij waarderen uw medewerking tijdens deze overgang. Dank u voor uw begrip en inzet om onze systemen veilig te houden.
 
 Best
 
-[ Uw Naam ]
+`[Your Name]`
 
 `---------------------------------------------------`
