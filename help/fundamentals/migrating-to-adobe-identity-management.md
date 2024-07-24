@@ -7,7 +7,7 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 70f6e3cd3e114fd16ddd52f6d1a62fd914788621
+source-git-commit: 247e961f6fcd4ec287c957ac34d557f1ad844f14
 workflow-type: tm+mt
 source-wordcount: '1070'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Meer hulp op dit onderwerp voor de beheerders van het Marketo Engage kan in de v
 
 U kunt de migratiedatum in **Admin** wijzigen > **de Console van de Migratie** > **pre-Migratie** om uw interne chronologie beter aan te passen. Leer meer over het opnieuw plannen en de beperkingen van [ het wijzigen van uw migratiedatum ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration) {target="_blank"}.
 
-* Stuur een e-mail naar uw systeembeheerders.
+#### Een e-mail verzenden naar uw systeembeheerders {#send-an-email-to-system-admin}
 
 Hieronder ziet u een voorbeeld-e-mail die u naar uw systeembeheerders kunt verzenden. Meestal beheert uw IT-afdeling al uw Adobe licenties.
 
@@ -90,7 +90,7 @@ met betrekking tot
 
 `---------------------------------------------------`
 
-* Stuur een e-mail naar gebruikers van het Marketo Engage.
+#### Een e-mail verzenden naar gebruikers van een Marketo Engage {#send-an-email-to-marketo-engage-users}
 
 Hieronder ziet u een voorbeeld van een e-mail waarmee u de aanstaande migratie kunt aankondigen naar gebruikers van uw Marketo Engage die geen beheerdersrechten hebben.
 
