@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
+source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 5%
+source-wordcount: '381'
+ht-degree: 6%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 5%
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Aanpassen aan tokens](/help/personalization/personalize-with-tokens.md)
-   + [Een nieuw exemplaar implementeren - zelfstudie](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Een overgeërfde instantie controleren - Zelfstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [ voer een nieuwe instantie uit - Leerprogramma ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ Controle een geërfte instantie - Leerprogramma ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
    + [Slimme campagnes 101](/help/campaigns/smart-campaigns-101.md)
@@ -36,7 +36,7 @@ ht-degree: 5%
       + [Een standaardprogramma maken en meten](/help/programs/create-and-measure-default-programs.md)
       + [De flexibiliteit van standaardprogramma&#39;s benutten](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
-   + Betrokkenheidskaarten {#engagement-maps}
+   + Betrokkenheid toewijzen {#engagement-maps}
       + [Overzicht van de betrokkenheidskaart](/help/engagement-maps/engagement-map-overview.md)
       + [Geneste campagnes voor de toewijzing van betrokkenheid](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Detectie en resolutie van fouten in de betrokkenheidskaart](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
@@ -58,8 +58,8 @@ ht-degree: 5%
    + [E-maildoorloop geactiveerd](/help/email-marketing/triggered-email-watch.md)
    + [Loodvoeding](/help/email-marketing/lead-nuturing-learn.md)
    + [Dynamische en voorspelbare inhoud](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Bezig met filteren van e-mailbot-activiteiten - Instellen](/help/filtering-email-bot-activities/setup.md)
-+ Kanaaloverschrijdende marketing {#cross-channel-marketing}
+   + [ Filtrerend e-mailbot activiteiten - Opstelling ](/help/filtering-email-bot-activities/setup.md)
++ Cross-channel marketing {#cross-channel-marketing}
    + [Forms-doorloop](/help/email-marketing/forms-watch.md)
    + [Integratie van mobiele marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)
    + [Doorloop voor mobiele marketing](/help/cross-channel-marketing/mobile-marketing-watch.md)
@@ -92,11 +92,11 @@ ht-degree: 5%
    + [Vergaderingsboekingen](/help/dynamic-chat/meeting-booking.md)
    + [Generaal-AI-gesprekken voeren](/help/dynamic-chat/gen-ai-features.md)
    + [Betrokkenheidsrapport](/help/dynamic-chat/engagement-report.md)
-+ Handelingen voor het instellen van verkoopgegevens {#sales-insight-actions}
++ Handelingen voor het toezicht op de verkoop {#sales-insight-actions}
    + [Overzicht](/help/sales-insight-actions/overview.md)
    + [Overzicht van Handelingen in het verkoopinzicht](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Toegang tot uw exemplaar van Handelingen van het Inzicht van de Verkoop](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [Logbestand van verkoopactiviteiten configureren voor [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [Logboekregistratie van verkoopactiviteiten configureren naar  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Beheer van leads en gegevens {#lead-and-data-management}
    + [Leider-/persoonscores](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Doorloop voor scoren van leads/personen](/help/lead-and-data-management/lead-scoring-watch.md)
@@ -123,4 +123,5 @@ ht-degree: 5%
    + [Rapportage en analyse](/help/reporting/reporting-and-analytics.md)
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
 + Integraties {#integrations}
-   + [Marketo met Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [ Marketo met Real-time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
