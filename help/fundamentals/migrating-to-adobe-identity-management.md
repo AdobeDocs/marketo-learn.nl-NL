@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6caaae707cb4dae45c4f05a895566adc98458e6
+source-git-commit: 4ecbe3a79ad28a38e3c630868663a7b2859428e9
 workflow-type: tm+mt
-source-wordcount: '1115'
+source-wordcount: '1170'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Om ervoor te zorgen dat uw organisatie Adobe Marketo Engage naar de Adobe Admin 
 
 * Als u niet zeker bent wie de Beheerders van het Systeem binnen uw organisatie zijn, contacteer uw team van de Rekening van de Adobe, of reep aan de Steun van de Adobe `marketocares@marketo.com`.
 
-* Bevestig de Adobe Admin Console (of Adobe Org) waarnaar uw abonnement(en) op het Marketo Engage wordt gemigreerd. Je hebt waarschijnlijk een Adobe Admin Console for Dynamic Chat, een native conversatie-automatiseringsprogramma in Marketo Engage. Abonnement(s) van het Marketo Engage moet in de zelfde organisatie worden opgesteld zoals [ Dynamic Chat ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
+* Bevestig de Adobe Admin Console (of Adobe Org) waarnaar uw abonnement(en) op het Marketo Engage wordt gemigreerd. U hebt waarschijnlijk een Adobe Admin Console voor [ Dynamic Chat ](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}, een inheems hulpmiddel van de gespreksautomatisering in Marketo Engage. Abonnementen van Marketo&#39;s Engage moeten worden geïmplementeerd in dezelfde organisatie als Dynamic Chat.
 
 * Het werk met uw team van IT om alle vermelde domeinen van de Adobe [ bij de bovenkant van dit artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo) {target="_blank"} te lijsten van gewenste personen om verstoring aan de toegang van het Marketo Engage na de migratie aan Identiteit van de Adobe te verhinderen.
 
@@ -82,9 +82,11 @@ Ons abonnement op Marketo&#39;s Engage wordt binnenkort gemigreerd naar het Adob
 
 * De Adobe kan om toestemming van u, de Beheerder van het Systeem van de Admin Console, verzoeken om gebruikers automatisch aan de bestaande console van onze organisatie te migreren. Klik in de e-mail met de onderwerpregel &quot;Handeling vereist om gebruikerstoegang tot Adobe Marketo Engage te beheren `[Package Tier]`&quot; op de knop &quot;Aan de slag&quot; om naar de toestemmingspagina te gaan.
 
-`3.` **Facultatief:** Vestiging SSO (Enige Sign On) op Adobe Admin Console.
+`3.` Na de migratie gaat het Marketo Engage van experience.adobe.com naar Adobe Experience Cloud. Gelieve te lijsten van gewenste personen alle vermelde domeinen van de Adobe [ bij de bovenkant van dit artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo) {target="_blank"} om verstoring aan onze toegang van het Marketo Engage te verhinderen.
 
-* Om onze gebruikers te helpen die zich bij SSO aanmelden op hun Adobe Identity die zich verder beweegt, verzoeken wij u om u te helpen bij de installatie van SSO op de Adobe Admin Console voordat de gebruikersmigratie plaatsvindt.
+`4.` **Facultatief:** Vestiging SSO (Enige Sign On) op Adobe Admin Console.
+
+* Om onze gebruikers te helpen die zich bij SSO aanmelden op hun Adobe Identity die zich verder beweegt, gelieve te helpen bij opstelling SSO op de Adobe Admin Console alvorens de gebruikersmigratie voorkomt.
 
 Wij waarderen uw medewerking tijdens deze overgang. Laat me weten wanneer u deze stappen hebt uitgevoerd zodat ik verder kan gaan met de migratie.
 
@@ -129,6 +131,8 @@ ii. Een actieve gebruikerssessie is vereist om de e-mailverificatie te voltooien
 i. Accepteer de nieuwe uitnodiging door op de knop Uitnodiging accepteren te klikken en u aan te melden met Adobe Identity.
 
 ii. Meld u aan bij een bestaande Adobe ID op de aanmeldingspagina van de Adobe.
+
+iii. U moet zich eerst bij de instantie van het Marketo Engage voor om het even welke eerder met bladwijzer verklaarde URL op het engage-xx.marketo.com domein aanmelden u aan navigeert.
 
 `3.` **Contact**: Als u om het even welke vragen hebt of hulp nodig nadat uw rekening wordt gemigreerd, of als uw rekening niet wordt gemigreerd en u toegang tot Marketo Engage verliest, te bereiken gelieve uit aan het team van de Marketo Engage bij `[your internal contact email/phone]`.
 
