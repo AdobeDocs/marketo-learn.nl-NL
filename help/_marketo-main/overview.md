@@ -3,7 +3,7 @@ title: Marketo Engage-tutorials
 description: Bekijk videozelfstudies op  [!DNL Marketo Engage]. Verbeter uw inzicht in het gebruik van marketingautomatiseringsfuncties en meer.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
+source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 12%
@@ -28,10 +28,10 @@ Blader door onze zelfstudie-bibliotheek en profiteer van de voordelen van [!DNL 
   _Leer om de migratie van Identity Management van de Adobe te navigeren zodat kunt u beginnen Adobe Marketo Engage samen met andere rekeningen en producten van de Adobe voor uw gebruikers in een centrale plaats te beheren._
 
 * [ Interactieve Webinars de Inzichten en Acties van de Gebeurtenis van het Post ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-Leer waar u gedetailleerde informatie kunt vinden over de prestaties en betrokkenheid van uw Interactieve Webinars-gebeurtenis.
+  _Leer waar te om gedetailleerde informatie over de prestaties en de betrokkenheid van uw Interactieve gebeurtenis te vinden Webinars._
 
 * [ Marketo hoe te API Video - hoe te om het teken van de Toegang in een variabele te plaatsen ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-Leer hoe u de Postman-toepassing instelt en hoe u variabelen kunt gebruiken om gegevens in de variabele op te slaan voor herbruikbaarheidsdoeleinden.
+  _Leer hoe te opstelling de toepassing van Postman en hoe te hefboomvariabelen om gegevens in veranderlijke voor herbruikbaarheidsdoeleinden op te slaan._
 
 ## Meest populaire video&#39;s {#most-popular-videos}
 
