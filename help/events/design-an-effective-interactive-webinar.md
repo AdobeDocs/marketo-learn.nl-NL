@@ -1,7 +1,7 @@
 ---
 title: Een effectief interactief webinar ontwerpen
-description: Leer hoe u een effectief interactief webinar maakt en ontwerpt
-short-description: Leer hoe u een effectief interactief webinar ontwerpt. De eerste stap in het controleren van uw webinar is boeiend en gedenkwaardig.
+description: Meer informatie over hoe u een effectief interactief webinar maakt en ontwerpt
+short-description: Meer informatie over hoe u een effectief interactief webinar ontwerpt. Dit is de eerste stap om ervoor te zorgen dat uw webinar-gebeurtenis boeiend en gedenkwaardig is.
 jira: KT-13352
 thumbnail: 3418602.jpeg
 feature: Events
@@ -10,8 +10,8 @@ level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 29%
 
 ---
 

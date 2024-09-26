@@ -1,7 +1,7 @@
 ---
-title: Zelfstudies voor Dynamics Chat
+title: Tutorials voor dynamische chat
 description: Meer informatie over Dynamic Chat in Adobe Experience League. Gebruik deze tutorials samen met de documentatie om meer inzicht te krijgen in het gebruik van Dynamic Chat om gepersonaliseerde gesprekken te maken.
-short-description: Gebruik deze zelfstudies samen met de productdocumentatie om uw begrip van de verschillende manieren te verbeteren Dynamic Chat voor u kan werken.
+short-description: Gebruik deze tutorials samen met de productdocumentatie om meer inzicht te krijgen in de verschillende manieren waarop Dynamic Chat voor u kan werken.
 doc-type: overview-page
 role: User
 level: Beginner
@@ -10,61 +10,61 @@ feature: Dynamic Chat
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '466'
-ht-degree: 6%
+ht-degree: 12%
 
 ---
 
-# Zelfstudies voor Dynamics Chat
+# Tutorials voor dynamische chat
 
 ![](assets/dynamic-chat-header.png)
 
-Welkom bij de [!UICONTROL Dynamic Chat]  website voor zelfstudies. Gebruik deze zelfstudies samen met de documentatie om meer inzicht te krijgen in het gebruik van [!UICONTROL Dynamic Chat]  om persoonlijke gesprekken te maken. De volgende onderwerpen kunnen u helpen aan de slag gaan:
+Welkom bij de website met zelfstudies van [!UICONTROL Dynamic Chat] . Gebruik deze zelfstudies samen met de documentatie om meer inzicht te krijgen in het gebruik van [!UICONTROL Dynamic Chat] om persoonlijke gesprekken te maken. De volgende onderwerpen kunnen u helpen aan de slag gaan:
 
 * Overzicht
-   * **[Een snelle producttour [2023]](product-tour.md)**
-     *Bekijk een overzicht van alle nieuwe functies die in 2023 zijn gestart.*
-   * **[A quick product tour [2022]](product-tour.md)**
-     *Bekijk een overzicht van het volledige product en leer hoe je gebruik kunt maken van [!UICONTROL Dynamic Chat].*
-   * **[Ga live in 15 minuten](go-live-in-15-minutes.md)**
-     *Een stapsgewijze handleiding om u te helpen live te gaan met uw eerste dialoogvenster [!UICONTROL Dynamic Chat]  over slechts 15 minuten!*
+   * **[Snelle productRondleiding [2023]](product-tour.md)**
+     *krijg een overzicht van alle nieuwe eigenschappen die 2023 worden gelanceerd.*
+   * **[Snelle productRondleiding [2022]](product-tour.md)**
+     *krijg een overzicht van het volledige product en leer hoe u hefboomwerking [!UICONTROL Dynamic Chat] kunt.*
+   * **[ga in 15 minuten](go-live-in-15-minutes.md)** leven
+     *een stap voor stap gids van A om u te helpen met uw eerste dialoog leven gebruikend [!UICONTROL Dynamic Chat] in enkel 15 minuten!*
 * Instellen
-   * **[Uw chatbot instellen en installeren](setup.md)**
-     *Meer informatie over het instellen van uw [!UICONTROL Dynamic Chat]  abonnement.*
-   * **[Marketo-integratie activeren met[!UICONTROL Dynamic Chat]](marketo-integration.md)**
-     *Richt uw Webbezoekers met gesprekken en verbeter hen met loodinformatie van Marketo.*
-   * **[Gebruikers van[!UICONTROL Dynamic Chat]](user-management.md)**
-     *Leer hoe u gebruikers kunt toevoegen of beheren in [!UICONTROL Dynamic Chat] .*
-   * **[Agent-beheer](agent-management.md)**
-     *Leer hoe u agents beheert.*
+   * **[Opstelling en installeer uw praatbot](setup.md)**
+     *leer stappen aan opstelling uw [!UICONTROL Dynamic Chat] abonnement.*
+   * **[Activeer uw integratie van Marketo met[!UICONTROL Dynamic Chat]](marketo-integration.md)**
+     *doel uw Webbezoekers met gesprekken en verpersoonleer hen met loodinformatie van Marketo.*
+   * **[Gebruikers van[!UICONTROL Dynamic Chat]](user-management.md)** toevoegen en beheren
+     *Leer om gebruikers in [!UICONTROL Dynamic Chat] toe te voegen of te leiden.*
+   * **[het beheer van de Agent](agent-management.md)**
+     *leer hoe te om agenten te beheren.*
 * Geautomatiseerde chat
-   * **[Aangepaste dialoogvensters maken en beheren](dialogue-management.md)**
-     *Leer hoe u een dialoogvenster kunt maken om uw webbezoeker snel te bereiken met [!UICONTROL Dynamic Chat].*
-   * **[PDF insluiten in gesprekken](document-cloud-integration.md)**
-     *PDF-documenten delen in persoonlijke gesprekken die u ontwerpt [!UICONTROL Dynamic Chat].*
-   * **[Zoeken in Stream Designer](search-in-stream-designer.md)**
-     *Met een snelle zoekopdracht kunt u met één klik naar elke kaart in uw streamontwerper gaan.*
-   * **[Overgenomen kenmerken vastleggen](capture-inferred-attributes.md)**
-     *We kunnen de gevonden kenmerken identificeren en vullen met elke lead die via de Dynamic Chat wordt vastgelegd door de Munchkin-id te gebruiken.*
-   * **[Dialoogvenster](dialogue-preview.md)**
-     *Een voorvertoning van uw dialoogvenster weergeven voordat u het publiceert, is bijzonder eenvoudig met de voorvertoningsfunctie in het dialoogvenster.*
-   * **[Globalisatie van statische inhoud](globalization-of-static-content.md)**
-     *U kunt statische inhoud/systeeminhoud aanpassen aan de taal van uw keuze.*
-   * **[Gesprek Forms](conversational-forms.md)**
-     *Leer hoe u direct na het invullen van een formulier contact kunt opnemen met uw websitebezoekers.*
-   * **[Gesprek SDK](conversations-sdk.md)**
-     *Leer hoe te om Conversations SDK uit te voeren om het even welke klik CTA in een het in dienst nemen gesprek om te zetten.*
+   * **[creeer en beheer gepersonaliseerde Dialogen](dialogue-management.md)**
+     *leer hoe te om dialoog tot stand te brengen om uw Webbezoeker met [!UICONTROL Dynamic Chat] snel in dienst te nemen.*
+   * **[bed PDF in Gesprek](document-cloud-integration.md)** in
+     *de documenten van de PDF van het aandeel binnen gepersonaliseerde gesprekken u in [!UICONTROL Dynamic Chat] ontwerpt.*
+   * **[Onderzoek in Stream Designer](search-in-stream-designer.md)**
+     *een snel onderzoek kan u helpen aan om het even welke kaart in uw stroomontwerper in één-klik krijgen.*
+   * **[het Vangst van afgeleide attributen](capture-inferred-attributes.md)**
+     *wij kunnen gevonden attributen tegen elke lood identificeren en bevolken die door Dynamic Chat door identiteitskaart van Munchkin leveraging wordt gevangen.*
+   * **[de voorproef van de Dialoog](dialogue-preview.md)**
+     *previewing uw dialoog alvorens u publiceert is super gemakkelijk met de voorproefeigenschap van de Dialoog.*
+   * **[globalization van statische inhoud](globalization-of-static-content.md)**
+     *u kunt statische/systeeminhoud aan taal van uw keus personaliseren.*
+   * **[Conversational Forms](conversational-forms.md)**
+     *Leer hoe te om uw websitebezoekers onmiddellijk in dienst te nemen nadat zij een vorm invullen.*
+   * **[Conversations SDK](conversations-sdk.md)**
+     *Leer hoe te om Conversations SDK uit te voeren om het even welke klik van CTA in een het in dienst nemen gesprek om te zetten.*
    * **[Herbruikbare stromen](reusable-flows.md)**
-     *Vereenvoudig het ontwerpen en beheren van uw gesprekken met de nieuwe Conversational Flow-kaart. Maak eenmaal een omzettingsstroom en gebruik deze opnieuw in meerdere dialoogvensters.*
-   * **[Conversiebestemmingspagina&#39;s](conversational-landing-pages.md)**
-     *Met slechts een paar klikken installeert u de conversie van Dynamics Chat naar elke landingspagina (Marketo Landing Pages of Custom) en converteert u een koppeling of knop om een conversatie-betrokkenheid te activeren.*
+     *vereenvoudig het ontwerpen en het leiden van uw gesprekken met de nieuwe Conversational Flow kaart. Creeer eens een gespreksstroom en gebruik het in veelvoudige Dialogen opnieuw.*
+   * **[Conversational die Pagina&#39;s](conversational-landing-pages.md)** plaatsen
+     *met enkel een paar kliks, installeer de Conversationele Stroom van de Dynamic Chat in om het even welke het landen pagina (Marketo die Pagina&#39;s of Douane) landt en om het even welke verbinding of knoop om een conversationele overeenkomst teweeg te brengen.*
 * Live chatten en boeken van vergaderingen
-   * **[Bezoekers verbinden met actieve agenten](connect-visitors-to-live-agents.md)**
-     *Verbind uw gekwalificeerde lood om met uw verkoopagenten onmiddellijk in dienst te nemen.*
-   * **[Laat uw lood aan boekvergaderingen met uw verkoop toe](meeting-booking.md)**
-     *Versnel de verbinding met verkoop voor die [!DNL target] accounts met Meeting-boekingsfuncties.*
+   * **[verbind bezoekers met levende agenten](connect-visitors-to-live-agents.md)**
+     *verbind uw gekwalificeerde lood om met uw verkoopagenten onmiddellijk in dienst te nemen.*
+   * **[laat uw lood aan boekvergaderingen met uw verkoop toe](meeting-booking.md)**
+     *versnelt verbinden met verkoop voor die [!DNL target] rekeningen met het boeken van de Vergadering functionaliteiten.*
 * Generatieve AI-chat
-   * **[Generaal-AI-gesprekken voeren](gen-ai-features.md)**
-     *Leer hoe u Dynamic Chat GenAI-functies kunt gebruiken.*
-* Analyse
-   * **[Betrokkenheidsrapport](engagement-report.md)**
-     *Bekijk de trends van hoe uw webbezoekers uw dialoog aangaan.*
+   * ](gen-ai-features.md)**de gesprekken van GenAI van de aandrijving van 0}**[
+     *leer hoe te om Dynamic Chat GenAI eigenschappen te gebruiken.*
+* Analytics
+   * **[het rapport van de Betrokkenheid](engagement-report.md)**
+     *zie de tendensen van hoe uw Webbezoekers die met uw dialoog in dienst nemen.*
