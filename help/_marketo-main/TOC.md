@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
+source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '383'
 ht-degree: 6%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 6%
    + [Doorloop voor abonnementencentrum](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-synchronisatie](/help/lead-and-data-management/crm-sync-learn.md)
    + [Aan de slag met Salesforce-synchronisatie](/help/integrations/salesforce-sync-setup.md)
-   + [Aan de slag met Microsoft Dynamics Sync](/help/integrations/microsoft-dynamics-sync-setup.md)
+   + [Aan de slag met Microsoft Dynamics-synchronisatie](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Levenscyclus lood](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Doorloop van levenscyclus van lood](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Gebeurtenissen {#events}
@@ -119,6 +119,7 @@ ht-degree: 6%
    + [Ontwerp een effectief interactief webinar](/help/events/design-an-effective-interactive-webinar.md)
    + [Interactieve webinars gebeurtenislevering](/help/events/interactive-webinars-event-delivery.md)
    + [Interactieve webinars na gebeurtenissen; inzichten en acties](/help/events/interactive-webinars-post-event-insights-and-actions.md)
+   + [Webinars op aanvraag](/help/events/on-demand-webinars.md)
 + Rapportage en analyse {#reporting}
    + [Rapportage en analyse](/help/reporting/reporting-and-analytics.md)
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
