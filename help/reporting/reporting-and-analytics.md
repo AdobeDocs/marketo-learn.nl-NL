@@ -7,12 +7,14 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-13219
 thumbnail: 3419295.jpeg
-exl-id: 735587c7-01e8-47d8-9514-ceea1c02bd65
+exl-id: bfe0fe57-0e59-483c-9092-14cc28a986d8
 feature: Reporting
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+hide: true
+hidefromtoc: true
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 2%
 
 ---
 
@@ -24,8 +26,8 @@ Leer hoe te om de sectie van Analytics en van het Gegevensbestand te navigeren o
 
 ## Aanvullende bronnen
 
-* **Productdocumentatie**
-Meer informatie over de verschillende rapporten die je kunt opvragen - [Overzicht van rapporten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+* **Documentatie van het Product**
+Leer over de verschillende rapporten u kunt trekken - [ Meldend Overzicht ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
-* **Deskundige klantblogbericht**
-Leer van Champion Chelsea Kiko over het maken van verschillende rapporten - [Rapportage in diverse Marketo&#39;s Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* **Professionele Blogpost van de Klant**
+Leer van Chelsea Kiko van Champion bij het creëren van diverse rapporten - [ Meldend in Verschillende Spaties van het Marketo Engage ](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

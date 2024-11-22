@@ -1,21 +1,21 @@
 ---
 title: Bezoekers laten wennen aan webpersonalisatie
-description: Controleren hoe verbinding wordt gemaakt [!DNL Marketo] aan verschillende van onze partners van LaunchPoint voor digitale reclame.
+description: Kijk hoe te om  [!DNL Marketo]  aan verscheidene van onze partners van de digitale reclameLaunchPoint te verbinden.
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-10726
 thumbnail: 345404.jpeg
 exl-id: 4bd03272-cd14-43b7-9bbb-ef1cd9c3b0a5
 feature: Web Personalization
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
 # Bezoekers laten wennen aan webpersonalisatie
 
-Controleren hoe verbinding wordt gemaakt [!DNL Marketo] aan verschillende van onze partners van LaunchPoint voor digitale reclame.
+Bekijk hoe u [!DNL Marketo] kunt verbinden met verschillende van onze LaunchPoint-partners voor digitale reclame.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}
