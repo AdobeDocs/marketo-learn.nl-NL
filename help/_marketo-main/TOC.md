@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '370'
 ht-degree: 6%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 6%
    + [Content marketing](/help/fundamentals/content-marketing-learn.md)
    + [Personen van koper](/help/fundamentals/buyer-personas-learn.md)
    + [Programma&#39;s en campagnes](/help/fundamentals/programs-and-campaigns.md)
-   + [Navigeren door de gebruikersinterface](/help/fundamentals/ui-navigation.md)
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Aanpassen aan tokens](/help/personalization/personalize-with-tokens.md)
@@ -30,12 +29,10 @@ ht-degree: 6%
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
    + [Slimme campagnes 101](/help/campaigns/smart-campaigns-101.md)
-   + [E-mailprogramma&#39;s](/help/programs/email-programs.md)
    + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
    + Standaardprogramma&#39;s {#default-programs}
       + [Een standaardprogramma maken en meten](/help/programs/create-and-measure-default-programs.md)
       + [De flexibiliteit van standaardprogramma&#39;s benutten](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [Betrokkenheidsprogramma&#39;s](/help/programs/engagement-programs.md)
    + Betrokkenheid toewijzen {#engagement-maps}
       + [Overzicht van de betrokkenheidskaart](/help/engagement-maps/engagement-map-overview.md)
       + [Geneste campagnes voor de toewijzing van betrokkenheid](/help/engagement-maps/engagement-map-nested-campaign.md)
