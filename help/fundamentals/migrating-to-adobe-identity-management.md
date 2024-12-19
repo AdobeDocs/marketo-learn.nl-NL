@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 2172f08f9a6171ef3a25cf6250e2f53eab8195fe
+source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
 workflow-type: tm+mt
-source-wordcount: '1170'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,8 @@ Om ervoor te zorgen dat uw organisatie Adobe Marketo Engage naar de Adobe Admin 
 * Het werk met uw team van IT om alle vermelde domeinen van de Adobe [ bij de bovenkant van dit artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo) {target="_blank"} te lijsten van gewenste personen om verstoring aan de toegang van het Marketo Engage na de migratie aan Identiteit van de Adobe te verhinderen.
 
 * **Facultatief:** [ voert Enig Ondertekenen (SSO) uit ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete) {target="_blank"} vóór gebruikersmigratie.
+
+* **Facultatief:** pas het [ gewenste maximumzittingsleven ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) aan {target="_blank"} voorafgaand aan gebruikersmigratie voor de gebruikers van het Marketo Engage om voor authentiek verklaard te blijven.
 
 * Leer wat met uw Beheerders van het Systeem in de [ E-mailsectie van de Steekproef ](#announce-the-migration-timeline) te communiceren.
 
@@ -84,9 +86,13 @@ Ons abonnement op Marketo&#39;s Engage wordt binnenkort gemigreerd naar het Adob
 
 `3.` Na de migratie gaat het Marketo Engage van experience.adobe.com naar Adobe Experience Cloud. Gelieve te lijsten van gewenste personen alle vermelde domeinen van de Adobe [ bij de bovenkant van dit artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo) {target="_blank"} om verstoring aan onze toegang van het Marketo Engage te verhinderen.
 
-`4.` **Facultatief:** Vestiging SSO (Enige Sign On) op Adobe Admin Console.
+`4.` **Facultatief:** opstelling SSO (Enig Sign On) in Adobe Admin Console.
 
-* Om onze gebruikers te helpen die zich bij SSO aanmelden op hun Adobe Identity die zich verder beweegt, gelieve te helpen bij opstelling SSO op de Adobe Admin Console alvorens de gebruikersmigratie voorkomt.
+* Om onze gebruikers te helpen die zich bij SSO aanmelden op hun Adobe Identity die zich verder beweegt, gelieve te helpen bij opstelling SSO in de Adobe Admin Console alvorens de gebruikersmigratie voorkomt.
+
+`5.` **Facultatief:** plaats een langer [ maximumzittingsleven ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) {target="_blank"} in Adobe Admin Console.
+
+* Als u wilt voorkomen dat gebruikers zich vaak moeten aanmelden, past u de levensduur van de sessie in Geavanceerde instellingen met een langere duur aan.
 
 Wij waarderen uw medewerking tijdens deze overgang. Laat me weten wanneer u deze stappen hebt uitgevoerd zodat ik verder kan gaan met de migratie.
 
