@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 6%
+source-wordcount: '430'
+ht-degree: 5%
 
 ---
 
@@ -121,3 +121,16 @@ ht-degree: 6%
 + Integraties {#integrations}
    + [ Marketo met Real-time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
++ Duplicaten beheren {#manage-duplicates}
+   + [Inleiding tot het beheren van duplicaten](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [Begrijpen waarom duplicaten optreden](/help/managing-duplicates/why-duplicates-occur.md)
+   + [Dubbele records identificeren en voorkomen](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [Bepalen wanneer dubbele records nodig zijn](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [Gedupliceerde records handmatig samenvoegen](/help/managing-duplicates/merge-manually.md)
+   + [Bulk samenvoegen duplicaten deel 1](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [Bulk samenvoegen duplicaten deel 2](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [Bulk samenvoegen duplicaten deel 3](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [Automatiseer dubbel beheer deel 1](/help/managing-duplicates/automate-integration-part-1.md)
+   + [Automatiseer dubbel beheer deel 2](/help/managing-duplicates/automate-integration-part-2.md)
+   + [Dubbel beheer vereenvoudigen](/help/managing-duplicates/simplify-acs.md)
+   + [Kies de beste strategie voor het beheer van duplicaten](/help/managing-duplicates/duplicate-strategy.md)
