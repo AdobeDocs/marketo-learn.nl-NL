@@ -3,7 +3,7 @@ title: Marketo Engage-tutorials
 description: Bekijk videozelfstudies op  [!DNL Marketo Engage]. Verbeter uw inzicht in het gebruik van marketingautomatiseringsfuncties en meer.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 13%
@@ -23,7 +23,7 @@ Blader door onze zelfstudie-bibliotheek en profiteer van de voordelen van [!DNL 
 
 ## Nieuwe functies {#whats-new}
 
-* [ Beste praktijken om levende praatje ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md) uit te voeren
+* [ Beste praktijken om levende praatje ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices) uit te voeren
   _leer over de beste praktijken om te volgen wanneer u de levende praatjeeigenschap in Dynamic Chat uitvoert._
 
 * [ Interactief Webinars Overzicht ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
