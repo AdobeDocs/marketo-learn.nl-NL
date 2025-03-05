@@ -3,10 +3,10 @@ title: Marketo Engage-tutorials
 description: Bekijk videozelfstudies op  [!DNL Marketo Engage]. Verbeter uw inzicht in het gebruik van marketingautomatiseringsfuncties en meer.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 12%
+source-wordcount: '161'
+ht-degree: 13%
 
 ---
 
@@ -21,17 +21,16 @@ Blader door onze zelfstudie-bibliotheek en profiteer van de voordelen van [!DNL 
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div> -->
 
-
 ## Nieuwe functies {#whats-new}
 
+* [ Interactief Webinars Overzicht ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+  _leer allen over Interactieve Webinars, het ingebouwde webinar platform binnen Marketo Engage._
+
 * [ migrerend aan Adobe Identity Management ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Leer om de migratie van Identity Management van de Adobe te navigeren zodat kunt u beginnen Adobe Marketo Engage samen met andere rekeningen en producten van de Adobe voor uw gebruikers in een centrale plaats te beheren._
+  _Leer om de migratie van Adobe Identity Management te navigeren zodat kunt u beginnen Adobe Marketo Engage samen met andere rekeningen en producten van Adobe voor uw gebruikers in een centrale plaats te beheren._
 
 * [ Interactieve Webinars de Inzichten en Acties van de Gebeurtenis van het Post ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
   _Leer waar te om gedetailleerde informatie over de prestaties en de betrokkenheid van uw Interactieve gebeurtenis te vinden Webinars._
-
-* [ Marketo hoe te API Video - hoe te om het teken van de Toegang in een variabele te plaatsen ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-  _Leer hoe te opstelling de toepassing van Postman en hoe te hefboomvariabelen om gegevens in veranderlijke voor herbruikbaarheidsdoeleinden op te slaan._
 
 ## Meest populaire video&#39;s {#most-popular-videos}
 

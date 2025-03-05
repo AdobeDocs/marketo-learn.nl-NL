@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 5%
 
 ---
@@ -75,7 +75,7 @@ ht-degree: 5%
    + [Gebruikersbeheer](/help/dynamic-chat/user-management.md)
    + [Agent-beheer](/help/dynamic-chat/agent-management.md)
    + [Dialoogbeheer](/help/dynamic-chat/dialogue-management.md)
-   + [PDF in gesprekken insluiten](/help/dynamic-chat/document-cloud-integration.md)
+   + [PDF insluiten in gesprekken](/help/dynamic-chat/document-cloud-integration.md)
    + [Zoeken in Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
    + [Overgenomen kenmerken vastleggen](/help/dynamic-chat/capture-inferred-attributes.md)
    + [Dialoogvenster](/help/dynamic-chat/dialogue-preview.md)
@@ -108,6 +108,7 @@ ht-degree: 5%
    + [Een gebeurtenisprogramma maken](/help/events/events-learn.md)
    + [Webinars](/help/events/webinar-learn.md)
    + [Doorloop voor webinars](/help/events/webinar-watch.md)
+   + [Overzicht van interactieve webinars](/help/events/interactive-webinars-overview.md)
    + [Interactieve webinars - gebruikers- en licentiebeheer](/help/events/interactive-webinars-user-and-license-management.md)
    + [Interactive Webinars Event Program Creation](/help/events/interactive-webinars-event-program-creation.md)
    + [Overzicht interactieve webinars-gebeurtenisprogramma](/help/events/interactive-webinars-event-program-overview.md)
@@ -119,7 +120,7 @@ ht-degree: 5%
 + Rapportage en analyse {#reporting}
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
 + Integraties {#integrations}
-   + [ Marketo met Real-time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
 + Duplicaten beheren {#manage-duplicates}
    + [Inleiding tot het beheren van duplicaten](/help/managing-duplicates/introduction-managing-duplicates.md)
