@@ -7,7 +7,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 55341c3f44aaf01d746b6e3f9e241f8a75c64958
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 0%
@@ -30,15 +30,15 @@ Om ervoor te zorgen dat uw organisatie Adobe Marketo Engage naar de Adobe Admin 
 
 * Bevestig de Adobe Admin Console (of Adobe Org) waarnaar uw Marketo Engage-abonnement(en) wordt gemigreerd. U hebt waarschijnlijk een Adobe Admin Console voor [ Dynamic Chat ](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}, een inheems hulpmiddel van de gespreksautomatisering in Marketo Engage. Marketo Engage-abonnementen moeten worden geïmplementeerd in dezelfde organisatie als Dynamic Chat.
 
-* Het werk met uw team van IT om alle die domeinen van Adobe te lijsten van gewenste personen [ bij de bovenkant van dit artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo) worden vermeld {target="_blank"} om verstoring aan de toegang van Marketo Engage na de migratie aan de Identiteit van Adobe te verhinderen.
+* Het werk met uw team van IT om alle die domeinen van Adobe te lijsten van gewenste personen [ bij de bovenkant van dit artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} worden vermeld om verstoring aan de toegang van Marketo Engage na de migratie aan Identiteit van Adobe te verhinderen.
 
-* **Facultatief:** [ voert Enig Ondertekenen (SSO) uit ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete) {target="_blank"} vóór gebruikersmigratie.
+* **Facultatief:** [ voert Enig Sign (SSO) uit ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} vóór gebruikersmigratie.
 
   >[!NOTE]
   >
   >Er zijn verschillen tussen door Marketo Engage ondersteunde SSO en Adobe Admin Console SSO. Daarom moeten wijzigingen in uw configuratie mogelijk worden geïmplementeerd.
 
-* **Facultatief:** pas het [ gewenste maximumzittingsleven ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) aan {target="_blank"} voorafgaand aan gebruikersmigratie voor de gebruikers van Marketo Engage om voor authentiek verklaard te blijven.
+* **Facultatief:** pas het [ gewenste maximumzittingsleven ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} voorafgaand aan gebruikersmigratie voor de gebruikers van Marketo Engage aan authentiek te blijven.
 
 * Leer wat met uw Beheerders van het Systeem in de [ E-mailsectie van de Steekproef ](#announce-the-migration-timeline) te communiceren.
 
@@ -50,21 +50,21 @@ In de onderstaande video bespreekt het Marketo Engage Product Management-team u 
 
 Meer hulp over dit onderwerp voor de beheerders van Marketo Engage kan in de volgende hulpartikelen worden gevonden:
 
-* ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup) {target="_blank"} checklist van de Opstelling van 0} Gebruiker[
+* [ checklist van de Opstelling van de Gebruiker ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
 
-* [ het Overzicht van Identity Management van Adobe ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) {target="_blank"}
+* [ Adobe Identity Management Overzicht ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
 
-* [ Begrijpend het Abonnement van Marketo en de Migratie van de Gebruiker aan Adobe Admin Console ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console) {target="_blank"}
+* [ Begrijpend het Abonnement van Marketo en de Migratie van de Gebruiker aan Adobe Admin Console ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
 
-* [ Migrerend aan de Identiteit van Adobe met de Console van de Migratie ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity) {target="_blank"}
+* [ Migrerend aan de Identiteit van Adobe met de Console van de Migratie ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
 
-* [ Begrijp hoe te om Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) te gebruiken {target="_blank"}
+* [ Begrijp hoe te om Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html){target="_blank"} te gebruiken
 
 ### 3. Geef uw interne teams een overzicht van het tijdschema en de voorbereiding voor de migratie {#announce-the-migration-timeline}
 
 * Markeer de migratiedatum op de agenda&#39;s van uw Marketo Engage-beheerders en -gebruikers zodra deze gepland zijn.
 
-   * U kunt de migratiedatum in **Admin** wijzigen > **de Console van de Migratie** > **pre-Migratie** om uw interne chronologie beter aan te passen. Leer meer over het opnieuw plannen en de beperkingen van [ het wijzigen van uw migratiedatum ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration) {target="_blank"}.
+   * U kunt de migratiedatum in **Admin** wijzigen > **de Console van de Migratie** > **pre-Migratie** om uw interne chronologie beter aan te passen. Leer meer over het opnieuw plannen en de beperkingen van [ het wijzigen van uw migratiedatum ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
 * **verzend een e-mail naar uw Beheerders van het Systeem**
 
@@ -88,13 +88,13 @@ Ons Marketo Engage-abonnement wordt binnenkort gemigreerd naar het Adobe Identit
 
 * Adobe kan u, de systeembeheerder van de Admin Console, om toestemming vragen om gebruikers automatisch te migreren naar de bestaande console van onze organisatie. Klik in de e-mail met de onderwerpregel &quot;Handeling vereist om gebruikerstoegang tot Adobe Marketo Engage te beheren `[Package Tier]`&quot; op de knop &quot;Aan de slag&quot; om naar de toestemmingspagina te gaan.
 
-`3.` Na de migratie gaat Marketo Engage van experience.adobe.com naar Adobe Experience Cloud. Gelieve te lijsten van gewenste personen alle die domeinen van Adobe [ bij de bovenkant van dit artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo) worden vermeld {target="_blank"} om verstoring aan onze toegang van Marketo Engage te verhinderen.
+`3.` Na de migratie gaat Marketo Engage van experience.adobe.com naar Adobe Experience Cloud. Gelieve te lijsten van gewenste personen alle die domeinen van Adobe [ bij de bovenkant van dit artikel ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} worden vermeld om verstoring aan onze toegang van Marketo Engage te verhinderen.
 
 `4.` **Facultatief:** opstelling SSO (Enig Sign On) in Adobe Admin Console.
 
 * Voor gebruikers die zich bij SSO aanmelden op hun Adobe Identity die zich verder beweegt, dient u hulp te bieden bij de installatie van SSO in de Adobe Admin Console voordat de gebruikersmigratie plaatsvindt.
 
-`5.` **Facultatief:** plaats een langer [ maximumzittingsleven ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) {target="_blank"} in Adobe Admin Console.
+`5.` **Facultatief:** plaats een langer [ maximumzittingsleven ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} in Adobe Admin Console.
 
 * Als u wilt voorkomen dat gebruikers zich vaak moeten aanmelden, past u de levensduur van de sessie in Geavanceerde instellingen met een langere duur aan.
 

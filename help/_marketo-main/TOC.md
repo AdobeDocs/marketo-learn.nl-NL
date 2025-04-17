@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 5%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 5%
    + Standaardprogramma&#39;s {#default-programs}
       + [Een standaardprogramma maken en meten](/help/programs/create-and-measure-default-programs.md)
       + [De flexibiliteit van standaardprogramma&#39;s benutten](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + Betrokkenheid toewijzen {#engagement-maps}
+   + Betrokkenheidskaarten {#engagement-maps}
       + [Overzicht van de betrokkenheidskaart](/help/engagement-maps/engagement-map-overview.md)
       + [Geneste campagnes voor de toewijzing van betrokkenheid](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Detectie en resolutie van fouten in de betrokkenheidskaart](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
@@ -56,7 +56,7 @@ ht-degree: 5%
    + [Loodvoeding](/help/email-marketing/lead-nuturing-learn.md)
    + [Dynamische en voorspelbare inhoud](/help/email-marketing/dynamic-and-predictive-content-learn.md)
    + [ Filtrerend e-mailbot activiteiten - Opstelling ](/help/filtering-email-bot-activities/setup.md)
-+ Cross-channel marketing {#cross-channel-marketing}
++ Kanaaloverschrijdende marketing {#cross-channel-marketing}
    + [Forms-doorloop](/help/email-marketing/forms-watch.md)
    + [Integratie van mobiele marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)
    + [Doorloop voor mobiele marketing](/help/cross-channel-marketing/mobile-marketing-watch.md)
@@ -89,10 +89,10 @@ ht-degree: 5%
    + [Vergaderingsboekingen](/help/dynamic-chat/meeting-booking.md)
    + [Generaal-AI-gesprekken voeren](/help/dynamic-chat/gen-ai-features.md)
    + [Betrokkenheidsrapport](/help/dynamic-chat/engagement-report.md)
-+ Handelingen voor het toezicht op de verkoop {#sales-insight-actions}
++ Insight-acties voor verkoop {#sales-insight-actions}
    + [Overzicht](/help/sales-insight-actions/overview.md)
-   + [Overzicht van Handelingen in het verkoopinzicht](/help/sales-insight-actions/sales-insight-actions-overview.md)
-   + [Toegang tot uw exemplaar van Handelingen van het Inzicht van de Verkoop](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [Overzicht Insight-acties verkopen](/help/sales-insight-actions/sales-insight-actions-overview.md)
+   + [Toegang tot je verkoopexemplaar Insight Actions](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Logboekregistratie van verkoopactiviteiten configureren naar  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Beheer van leads en gegevens {#lead-and-data-management}
    + [Leider-/persoonscores](/help/lead-and-data-management/lead-scoring-learn.md)
@@ -123,6 +123,7 @@ ht-degree: 5%
 + Integraties {#integrations}
    + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
+   + [Een slimme campagne activeren in Marketo Engage met de REST API en tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Duplicaten beheren {#manage-duplicates}
    + [Inleiding tot het beheren van duplicaten](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [Begrijpen waarom duplicaten optreden](/help/managing-duplicates/why-duplicates-occur.md)
