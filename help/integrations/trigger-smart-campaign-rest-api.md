@@ -4,7 +4,7 @@ description: Leer hoe u een slimme campagne in Marketo Engage kunt activeren met
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+Als u een token gebruikt om een afbeeldings-URL dynamisch te injecteren (bijvoorbeeld `{{my.WebinarImage}}`), moet u het token opnemen in een HTML-afbeeldingstag:
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->Als u een token gebruikt om een afbeeldings-URL dynamisch te injecteren (bijvoorbeeld `{{my.WebinarImage}}`), moet u het token opnemen in een HTML-afbeeldingstag:
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >Marketo Enagage **zal niet** het beeld teruggeven tenzij het teken binnen een geldige beeldmarkering wordt geplaatst.
 
