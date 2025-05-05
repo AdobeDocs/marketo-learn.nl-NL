@@ -12,7 +12,7 @@ ht-degree: 13%
 
 # [!DNL Marketo Engage] Tutorials
 
-Blader door onze zelfstudie-bibliotheek en profiteer van de voordelen van [!DNL Marketo Engage] . Deze leerprogramma&#39;s kunnen helpen [[!DNL Marketo]  productdocumentatie ](https://experienceleague.adobe.com/docs/marketo/using/home.html) {target="_blank"} aanvullen om u te helpen uw begrip van de eigenschappen van de marketing automatisering verbeteren.
+Blader door onze zelfstudie-bibliotheek en profiteer van de voordelen van [!DNL Marketo Engage] . Deze leerprogramma&#39;s kunnen helpen [[!DNL Marketo]  productdocumentatie ](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}  aanvullen om u te helpen uw begrip van de eigenschappen van de marketing automatisering verbeteren.
 
 <!-- <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

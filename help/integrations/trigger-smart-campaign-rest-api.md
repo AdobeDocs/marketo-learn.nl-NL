@@ -84,7 +84,7 @@ Als u waarden dynamisch wilt doorgeven via API, moeten de tokens al bestaan in M
 
 1. Vorm de [ kwalificatieregels ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} om te controleren hoe vaak een persoon door de Slimme Campagne kan lopen.
 
-1. Zodra gevormd, activeer **** om de Slimme Campagne toe te laten om API-teweeggebrachte verzoeken te ontvangen.
+1. Zodra gevormd, activeer **&#x200B;**&#x200B;om de Slimme Campagne toe te laten om API-teweeggebrachte verzoeken te ontvangen.
 
 ![ Slimme de kwalificatieregel van de Campagne ](assets/trigger-smart-campaign-rest-api-4.png)
 

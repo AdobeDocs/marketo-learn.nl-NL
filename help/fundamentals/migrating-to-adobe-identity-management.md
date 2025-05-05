@@ -108,7 +108,7 @@ met betrekking tot
 
 * **verzend een e-mail naar de gebruikers van Marketo Engage**
 
-Hieronder is een steekproefe-mail voor de gebruikers van Marketo Engage die **** geen beheerdervoorrechten hebben.
+Hieronder is een steekproefe-mail voor de gebruikers van Marketo Engage die **&#x200B;**&#x200B;geen beheerdervoorrechten hebben.
 
 +++ Voorbeeld-e-mail met aankondiging van de aanstaande migratie
 
