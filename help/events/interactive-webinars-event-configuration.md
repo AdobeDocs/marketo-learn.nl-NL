@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u uw Interactieve Webinars-gebeurtenis vóór levering configureert om aan de doelstelling van het webinar te voldoen en ervoor te zorgen dat de levering effectief genoeg is om de deelnemers aan te sporen belangstelling te wekken en hun intentie voor het merk, het product en de services te vragen. enz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448990/?learn=on&captions=dut)

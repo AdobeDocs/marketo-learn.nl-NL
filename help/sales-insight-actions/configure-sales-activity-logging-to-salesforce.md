@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe te vormen en de activiteiten van de Acties van het Inzicht van de Verkoop aan uw te registreren [!DNL Salesforce] account.
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449205/?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Verwante video&#39;s
 

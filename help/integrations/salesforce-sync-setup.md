@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer hoe Marketo Engage en Salesforce samenwerken om uw verkoop- en marketinggegevens synchroon te houden. In deze zelfstudie wordt uitgelegd hoe de synchronisatie werkt, wordt de synchronisatie zo ingesteld dat de juiste gegevensstroom plaatsvindt en worden de belangrijkste zaken gecontroleerd om te controleren of de synchronisatie goed werkt. Extra tips en trucs voor het beheren van uw Salesforce-synchronisatie worden gedeeld om u te helpen de velden voor synchronisatie selecteren en de velden verbergen die u niet meer nodig hebt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426909/?learn=on&captions=dut)
 
 ## Koppelingen in de video
 

@@ -26,4 +26,4 @@ Gebruikt dat u kunt ontgrendelen -
 - Aanbevolen inhoud op basis van keuze/interesse van bezoekers
 - Documenten delen en betrokkenheid bijhouden
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445107/?learn=on&captions=dut)

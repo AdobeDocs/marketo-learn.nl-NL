@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Een voorvertoning van uw dialoogvenster weergeven voordat u het publiceert, is bijzonder eenvoudig met de voorvertoningsfunctie in het dialoogvenster.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436859/?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Meer nuttige video&#39;s
 

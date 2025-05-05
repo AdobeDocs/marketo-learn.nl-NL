@@ -46,7 +46,7 @@ Om ervoor te zorgen dat uw organisatie Adobe Marketo Engage naar de Adobe Admin 
 
 In de onderstaande video bespreekt het Marketo Engage Product Management-team u de migratiereis en wat u verwacht.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432368/?t=170/?quality=12&learn=on&captions=dut){transcript=true}
 
 Meer hulp over dit onderwerp voor de beheerders van Marketo Engage kan in de volgende hulpartikelen worden gevonden:
 

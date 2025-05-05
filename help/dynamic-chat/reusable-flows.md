@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vereenvoudig het ontwerpen en beheren van uw gesprekken met de nieuwe Conversational Flow-kaart. Maak eenmaal een omzettingsstroom en gebruik deze opnieuw in meerdere dialoogvensters.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446651/?learn=on&captions=dut)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lees de vier programmatypen, hoe u programma&#39;s importeert, hoe u programma&#39;s voor het scoren van leads / personen en hoe u kanaaltags definieert. Meer informatie over algemene gebruiksgevallen en aanbevolen procedures.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432341/?learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 

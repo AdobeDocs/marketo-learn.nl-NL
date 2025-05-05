@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Voltooi uw bulksamenvoeging door schoongemaakte gegevens opnieuw in Marketo Engage in te voeren en duplicaten effectief te beheren met een operationele campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452753/?learn=on&enablevpops&captions=dut)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe u onderling verbonden en diep geneste campagnes kunt ontcijferen om de volledige reis van de klant beter zichtbaar te maken met de Engagement Map.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432424/?learn=on&captions=dut){transcript=true}

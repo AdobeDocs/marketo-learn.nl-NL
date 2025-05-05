@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe duplicaten afkomstig zijn van verschillende bronnen, zoals CRM-syncs, formuliervullingen en gegevensimport, en hoe u deze tot een minimum kunt beperken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443896/?learn=on&enablevpops&captions=dut)

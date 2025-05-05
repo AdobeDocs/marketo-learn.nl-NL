@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u tokens gebruikt in Marketo-programma&#39;s. Het gebruik van tokens in Marketo-programma&#39;s kan helpen bij personalisatie, het sneller maken van programma&#39;s en het minder waarschijnlijk maken van typos of menselijke fouten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432456/?learn=on&captions=dut){transcript=true}

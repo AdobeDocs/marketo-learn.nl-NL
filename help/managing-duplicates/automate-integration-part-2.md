@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u veldtoewijzingen kunt instellen, logica kunt samenvoegen en dubbel beheer tussen Marketo Engage- en iPaaS-gereedschappen kunt automatiseren. In deze videodemonstratie van de workflow wordt Vertify als voorbeeld gebruikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453813/?learn=on&enablevpops&captions=dut)

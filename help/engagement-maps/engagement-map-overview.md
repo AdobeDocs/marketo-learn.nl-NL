@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe u met Betrokkenheid toewijzen de snelheid van uw campagne kunt verhogen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432425/?learn=on&captions=dut){transcript=true}

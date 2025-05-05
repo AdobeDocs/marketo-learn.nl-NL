@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Mogelijk weet u al hoe u een dialoogvenster kunt maken dat niet in het Engels is (als dit niet het geval is, [klik hier](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). U kunt statische inhoud/systeeminhoud aanpassen aan de taal van uw keuze.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439220/?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Meer nuttige video&#39;s
 

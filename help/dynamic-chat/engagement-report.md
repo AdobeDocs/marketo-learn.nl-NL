@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Bekijk nu de trends van hoe uw webbezoekers uw dialoog aangaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437706/?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Meer nuttige video&#39;s
 

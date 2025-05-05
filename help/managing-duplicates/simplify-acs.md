@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Onderzoek hoe de Professionele Diensten van de Adobe in het beheren van dubbele verslagen met een vlotte benadering kunnen helpen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436790/?learn=on&enablevpops&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ontdek hoe u dubbel beheer in Marketo Engage kunt stroomlijnen met behulp van API-integratie met iPaaS-gereedschappen zoals Vertify of Workato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441928/?learn=on&enablevpops&captions=dut)

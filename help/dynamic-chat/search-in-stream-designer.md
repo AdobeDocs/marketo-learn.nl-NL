@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Met een snelle zoekopdracht kunt u met één klik naar elke kaart in uw streamontwerper gaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437249/?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Meer nuttige video&#39;s
 

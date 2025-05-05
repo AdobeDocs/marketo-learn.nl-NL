@@ -22,4 +22,4 @@ ht-degree: 0%
 Van de vier programmatypen zijn standaardprogramma&#39;s het meest flexibel en u kunt creatief worden met wat u kunt creëren.
 Meer informatie over twee veelvoorkomende gebruiksgevallen: webformulieren en het genereren van een betalende mediaspeler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453857?learn=on&captions=dut){transcript=true}

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Volg deze stapsgewijze zelfstudie om uw eerste betrokkenheidsprogramma samen te stellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true} 
+>[!VIDEO](https://video.tv.adobe.com/v/3452685/?learn=on&captions=dut){transcript=true} 
 
 ## Aanvullende bronnen:
 

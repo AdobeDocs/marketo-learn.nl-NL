@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Maak een snelle rondleiding door de verschillende elementen in een Interactive Webinars Event Program en leer welke acties u kunt ondernemen om het te verfijnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450086/?learn=on&captions=dut)

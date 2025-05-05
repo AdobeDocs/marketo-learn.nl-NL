@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een gebeurtenisprogramma instelt waarmee u interactieve webinars-gebeurtenissen in Marketo Engage kunt maken en plannen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443418/?learn=on&captions=dut)

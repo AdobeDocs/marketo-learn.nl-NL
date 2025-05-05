@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Leer hoe te om de sectie van Analytics en van het Gegevensbestand te navigeren om verschillende out-of-the-box rapporten in Marketo Engage te trekken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446426/?learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 

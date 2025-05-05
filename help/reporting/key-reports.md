@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer over de belangrijkste rapporten binnen Marketo Engage en hoe te om hen te trekken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432190/?learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 

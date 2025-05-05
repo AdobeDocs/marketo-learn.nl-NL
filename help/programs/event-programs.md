@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ontwikkel een fundamenteel begrip en bouw uw eerste Programma van de Gebeurtenis door deze video te bekijken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454000/?learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 

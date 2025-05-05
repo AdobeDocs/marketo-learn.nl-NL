@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe te om duplicaten in de sectie van het Gegevensbestand manueel samen te voegen, perfect voor behandeling van minder verslagen met precisie en controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443656/?learn=on&enablevpops&captions=dut)

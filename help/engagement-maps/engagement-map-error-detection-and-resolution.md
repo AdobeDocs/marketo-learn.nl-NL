@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe de Hulp van de Kaart van de Betrokkenheid hulp bij het oplossen van problemen en het oplossen van campagnekwesties snel
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432421/?learn=on&captions=dut){transcript=true}

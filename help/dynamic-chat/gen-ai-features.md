@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe u door GenAI aangedreven gesprekken kunt voeren en uw bezoekers in staat kunt stellen vragen te stellen, snelle antwoorden te krijgen en een overzicht voor uw gesprekken te genereren. Gebruik conversationele inzichten rechtstreeks in uw Marketo-instanties.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454477/?learn=on&captions=dut)

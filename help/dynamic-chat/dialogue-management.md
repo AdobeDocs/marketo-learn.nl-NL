@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Het ontwerpen van gerichte en gepersonaliseerde conversaties is de sleutel tot het creëren van een geweldige gesprekservaring voor elke webbezoeker. Leer hoe u een dialoogvenster maakt en beheert.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443799/?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Meer nuttige video&#39;s
 

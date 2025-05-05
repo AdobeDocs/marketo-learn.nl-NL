@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Versnel de prospectieve inspanningen met marketing-aangedreven intelligentie en betrokkenheidshulpmiddelen in één enkele werkschema gebruikend de Acties van het Inzicht van de Verkoop.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447251/?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Verwante video&#39;s
 

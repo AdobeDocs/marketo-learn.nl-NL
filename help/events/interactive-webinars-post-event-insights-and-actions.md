@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer waar u gedetailleerde informatie kunt vinden over de prestaties en betrokkenheid van uw Interactieve Webinars-gebeurtenis die is afgeleverd. Bespreek acties om leads/deelnemers op persoonlijke wijze te segmenteren, te scoren en te voeden op basis van de verzamelde betrokkenheidsinzichten en -intentie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447854/?learn=on&captions=dut)

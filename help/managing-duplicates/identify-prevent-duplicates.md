@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ontdek gereedschappen en tips voor het zoeken naar duplicaten en om deze te voorkomen met gestructureerde workflows en periodieke controles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447104/?learn=on&enablevpops&captions=dut)

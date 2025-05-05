@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Meer informatie over gebruikersmachtigingen voor interactieve webinars en de beschikbaarheid van licenties en gebruikslimietcontrole voor interactieve webinar-licenties.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446122/?learn=on&captions=dut)

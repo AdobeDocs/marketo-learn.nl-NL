@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u dubbele records in Excel kunt sorteren en consolideren met behulp van formules en aanbevolen procedures voor het importeren van schone lijsten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429492/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449684/?learn=on&enablevpops&captions=dut)

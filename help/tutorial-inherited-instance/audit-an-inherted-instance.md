@@ -24,4 +24,4 @@ Het overnemen van een instantie van een Marketo Engage kan een stressvolle tijd 
 
 In deze zelfstudie, zullen wij u door de belangrijkste secties binnen Marketo Engage, met inbegrip van Admin, de Activiteiten van de Marketing, de Studio van het Ontwerp, en het Gegevensbestand lopen, en u van uiteinden voor controle en optimalisering langs de weg voorzien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453028/?learn=on&captions=dut)

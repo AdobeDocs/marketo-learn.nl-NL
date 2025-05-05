@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Herhaal de belangrijkste oplossingen voor de behandeling van duplicaten in Marketo Engage en kies de beste oplossing voor de behoeften en de middelen van uw team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436646/?learn=on&enablevpops&captions=dut)

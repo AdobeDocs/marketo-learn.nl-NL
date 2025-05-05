@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Een stapsgewijze handleiding om u te helpen live te gaan met uw eerste dialoogvenster [!UICONTROL Dynamic Chat]  over slechts 15 minuten!
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452674/?quality=12&learn=on&captions=dut){transcript=true}
 
 *Opmerking: voor diegenen die niet weten hoe ze toegang kunnen krijgen [!UICONTROL Dynamic Chat] , [hier is een korte video](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=nl-NL) om u te helpen uzelf of andere gebruikers aan toe te voegen [!UICONTROL Dynamic Chat] .*

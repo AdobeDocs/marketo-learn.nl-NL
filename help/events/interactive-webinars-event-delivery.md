@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u uw interactieve webinars-gebeurtenis op een optimale manier kunt aanbieden om uw doel te bereiken en de deelnemers erbij te betrekken. Zorg ervoor dat uw inhoud interesse wekt, zodat u de intentie kunt opvragen via verschillende betrokkenheidsprogramma&#39;s om een beter gepersonaliseerde verzorging en segmentering te bevorderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440043/?learn=on&captions=dut)

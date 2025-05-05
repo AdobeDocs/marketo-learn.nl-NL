@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Een handleiding waarmee u identificatie van e-mailactiviteiten via bots kunt inschakelen en waarmee u campagnes kunt filteren en maken zonder bots.
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445118/?quality=12&learn=on&captions=dut){transcript=true}

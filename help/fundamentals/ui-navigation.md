@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Leer hoe u door de gebruikersinterface kunt navigeren en vertrouwd raakt met uw weg rond het platform van het Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450432/?learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Wanneer u voor het eerst met Marketo Engage begint te werken, is de organisatie de sleutel. Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s gemakkelijk om campagnes, programma&#39;s, en activa bij te houden. Leer hoe u uw boomstructuur kunt ordenen in [!UICONTROL Marketing Activities] het gebruiken van omslagen, standaardnoemingsovereenkomsten, en eigenschappen zoals het klonen om met uw medewerkers in een nieuwe [!DNL Marketo Engage] -instantie. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428939/?learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 
