@@ -23,4 +23,4 @@ ht-degree: 3%
 + [Een handleiding voor instantiebeheer ontwikkelen](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [Maak visueel een overzicht van uw marketingtechnische stack](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Vooraf gestart kwaliteitsborgingsproces van het programma](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Marketo Engage-tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Marketo Engage-tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL)

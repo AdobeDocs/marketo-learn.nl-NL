@@ -24,4 +24,4 @@ Leer hoe u een gepland e-mailprogramma maakt, beheert en volgt.
 
 Raadpleeg de producthandleiding voor meer informatie over e-mailprogramma&#39;s:
 
-* [Documentatie over e-mailprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Documentatie over e-mailprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=nl-NL)

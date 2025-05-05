@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Logboek CRM-synchronisatiefouten voor eenvoudige probleemoplossing
 
-Als beheerder van het Marketo Engage, zou het controleren of uw instantie synchroon met uw CRM is een zeer belangrijk deel van uw [dagelijkse routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (zoek het op de hoogste juiste hoek van uw interface van het Marketo Engage) is waar u begint om frequente synchronisatiekwesties te vinden en te onderzoeken, is er pro tip die u zou kunnen helpen de instantiegezondheid op een georganiseerde manier beheren. De Adobe van Marketo Champion (2019-2022), Amy Goldfine adviseert admin gebruikers een logboek van de fouten van de Synchronisatie van CRM houden om het oplossen van problemen gemakkelijker te maken.
+Als beheerder van het Marketo Engage, zou het controleren of uw instantie synchroon met uw CRM is een zeer belangrijk deel van uw [dagelijkse routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=nl-NL){target="_blank"} (zoek het op de hoogste juiste hoek van uw interface van het Marketo Engage) is waar u begint om frequente synchronisatiekwesties te vinden en te onderzoeken, is er pro tip die u zou kunnen helpen de instantiegezondheid op een georganiseerde manier beheren. De Adobe van Marketo Champion (2019-2022), Amy Goldfine adviseert admin gebruikers een logboek van de fouten van de Synchronisatie van CRM houden om het oplossen van problemen gemakkelijker te maken.
 
 ![Screenshot van het tabblad Synchronisatiefouten](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -33,7 +33,7 @@ Download de [Logsjabloon CRM-synchronisatiefouten](/help/tutorial-inherited-inst
 
 **Stap 1:** Ga naar de *[!UICONTROL Admin]sectie* in Marketo Engage. Onder *[!UICONTROL Integration]*, klikt u op *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]*, of *[!DNL Veeva]*, afhankelijk van welke [!DNL CRM] u gebruikt, dan *[!UICONTROL Sync Errors]* tab.
 
-**Stap 2:** U kunt ervoor kiezen [de records met fouten exporteren als een [!DNL CSV] door het [!UICONTROL Filter] deelvenster](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}. Als u slechts een paar uur hebt, kopieert en plakt u rechtstreeks vanuit de *[!UICONTROL Sync Errors]* is de manier om te gaan.
+**Stap 2:** U kunt ervoor kiezen [de records met fouten exporteren als een [!DNL CSV] door het [!UICONTROL Filter] deelvenster](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=nl-NL#filter-sync-errors){target="_blank"}. Als u slechts een paar uur hebt, kopieert en plakt u rechtstreeks vanuit de *[!UICONTROL Sync Errors]* is de manier om te gaan.
 
 **Stap 3:** Let op de datum waarop de fout is opgetreden.
 

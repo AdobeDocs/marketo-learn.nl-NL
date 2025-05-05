@@ -26,11 +26,11 @@ Ontwikkel een fundamenteel begrip en bouw uw eerste Programma van de Gebeurtenis
 
 Raadpleeg de desbetreffende producthandleidingen voor meer informatie:
 
-* [Documentatie over gebeurtenisprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [Documentatie over gebeurtenisprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=nl-NL)
 
 Bekijk aanvullende video&#39;s voor meer informatie over deze functie:
-* [Gebeurtenissen lopen door](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [Webinars lopen door](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [Gebeurtenissen lopen door](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=nl-NL)
+* [Webinars lopen door](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=nl-NL)
 
 Leer van uw collega&#39;s hoe u gebeurtenisprogramma&#39;s kunt gebruiken:
 * [Deskundige klantenblog post: Gebeurtenisprogramma&#39;s](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)

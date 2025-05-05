@@ -29,7 +29,7 @@ Gedetailleerde documentatie en [!DNL changelog] zijn van essentieel belang voor 
 
 1. Interne gebruikers gemakkelijker op schaalbare wijze trainen.
 2. Efficiënter inbouwen [!DNL Marketo Engage] op lange termijn.
-3. Behoud de gezondheid en hygiëne van uw exemplaar om u te redden van uren die in e-mails graven. [audittrail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html), en [activiteitenlogboek](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) om context te krijgen.
+3. Behoud de gezondheid en hygiëne van uw exemplaar om u te redden van uren die in e-mails graven. [audittrail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=nl-NL), en [activiteitenlogboek](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=nl-NL) om context te krijgen.
 4. Tijd besparen bij het overdragen [!DNL Marketo Engage] kennis voor een nieuwe [!DNL Marketo Engage] beheerder als uw team enige omzet ervaart.
 
 ## [!DNL Marketo Engage] handleiding voor bestuur 101

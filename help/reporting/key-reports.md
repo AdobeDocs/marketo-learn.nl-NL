@@ -28,7 +28,7 @@ Leer over de belangrijkste rapporten binnen Marketo Engage en hoe te om hen te t
 
 Lees de verwante producthandleidingen:
 
-* [Overzicht rapporttype](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [Overzicht rapporttype](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=nl-NL)
 
 Leer van anderen:
 

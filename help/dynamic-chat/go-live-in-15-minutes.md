@@ -20,4 +20,4 @@ Een stapsgewijze handleiding om u te helpen live te gaan met uw eerste dialoogve
 
 >[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
 
-*Opmerking: voor diegenen die niet weten hoe ze toegang kunnen krijgen [!UICONTROL Dynamic Chat] , [hier is een korte video](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en) om u te helpen uzelf of andere gebruikers aan toe te voegen [!UICONTROL Dynamic Chat] .*
+*Opmerking: voor diegenen die niet weten hoe ze toegang kunnen krijgen [!UICONTROL Dynamic Chat] , [hier is een korte video](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=nl-NL) om u te helpen uzelf of andere gebruikers aan toe te voegen [!UICONTROL Dynamic Chat] .*

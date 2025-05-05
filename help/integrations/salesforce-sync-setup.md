@@ -26,18 +26,18 @@ Leer hoe Marketo Engage en Salesforce samenwerken om uw verkoop- en marketinggeg
 
 ## Koppelingen in de video
 
-* [Werken met Salesforce Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+* [Werken met Salesforce Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=nl-NL)
 
-* [Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html)
+* [Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html?lang=nl-NL)
 
-* [Een Marketo-gebruiker maken in Salesforce (Enterprise/Onbeperkt)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html)
+* [Een Marketo-gebruiker maken in Salesforce (Enterprise/Onbeperkt)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html?lang=nl-NL)
 
-* [Connect Marketo en Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
+* [Connect Marketo en Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html?lang=nl-NL)
 
-* [Gebruikers moeten de Connected App instellen aan de Salesforce-zijde voordat ze verdergaan met Marketo en Salesforce Sync.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
+* [Gebruikers moeten de Connected App instellen aan de Salesforce-zijde voordat ze verdergaan met Marketo en Salesforce Sync.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html?lang=nl-NL)
 
-* [Status van Salesforce-synchronisatie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html)
+* [Status van Salesforce-synchronisatie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html?lang=nl-NL)
 
-* [Een veld verbergen en verbergen opheffen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html)
+* [Een veld verbergen en verbergen opheffen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html?lang=nl-NL)
 
-* [Zelfstudie: Meer informatie over het synchroniseren van Marketo naar uw CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
+* [Zelfstudie: Meer informatie over het synchroniseren van Marketo naar uw CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html?lang=nl-NL)

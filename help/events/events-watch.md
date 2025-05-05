@@ -24,4 +24,4 @@ Leer hoe u een &#39;trade show event&#39;-programma maakt dat is gebaseerd op ee
 
 Raadpleeg de producthandleiding voor meer informatie over het maken van een gebeurtenisprogramma:
 
-* [Documentatie voor een nieuw gebeurtenisprogramma maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Documentatie voor een nieuw gebeurtenisprogramma maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=nl-NL)

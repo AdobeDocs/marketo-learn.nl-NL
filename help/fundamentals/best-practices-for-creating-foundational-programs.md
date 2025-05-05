@@ -26,9 +26,9 @@ Lees de vier programmatypen, hoe u programma&#39;s importeert, hoe u programma&#
 
 **Productgidsen:**
 
-* [Programma&#39;s begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
-* [Een programma maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
-* [Beste praktijken: Hoe te om Uw Programma&#39;s te organiseren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
-* [Een programma importeren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [Tags begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
+* [Programma&#39;s begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=nl-NL)
+* [Een programma maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html?lang=nl-NL)
+* [Beste praktijken: Hoe te om Uw Programma&#39;s te organiseren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=nl-NL)
+* [Een programma importeren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=nl-NL)
+* [Tags begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html?lang=nl-NL)
 * [De Definitieve gids voor het Scoren van de Lood](https://business.adobe.com/resources/guides/lead-scoring.html)

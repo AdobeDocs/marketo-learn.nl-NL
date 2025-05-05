@@ -15,8 +15,8 @@ Programma&#39;s vormen één marketinginitiatief. Leer hoe u ze kunt gebruiken i
 
 Raadpleeg de desbetreffende producthandleidingen voor meer informatie:
 
-* [Documentatie over programma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [Informatie over slimme campagnes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Documentatie over programma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=nl-NL)
+* [Informatie over slimme campagnes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=nl-NL)
 
 Leer van uw collega&#39;s over het gebruik van slimme campagnes:
 
