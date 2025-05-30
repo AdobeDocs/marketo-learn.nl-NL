@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '470'
 ht-degree: 5%
 
 ---
@@ -17,18 +17,22 @@ ht-degree: 5%
 + Grondbeginselen {#fundamentals}
    + [Doelstellingen en strategie](/help/fundamentals/goals-and-strategy-learn.md)
    + [Organisatiestructuur](/help/fundamentals/organizational-structure-learn.md)
-   + [Migreren naar Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Content marketing](/help/fundamentals/content-marketing-learn.md)
    + [Personen van koper](/help/fundamentals/buyer-personas-learn.md)
+   + [Slimme lijsten](/help/fundamentals/smart-lists.md)
+   + [Statische lijsten](/help/fundamentals/static-lists.md)
    + [Programma&#39;s en campagnes](/help/fundamentals/programs-and-campaigns.md)
+   + [Migreren naar Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Aanpassen aan tokens](/help/personalization/personalize-with-tokens.md)
-   + [ voer een nieuwe instantie uit - Leerprogramma ](https://experienceleague.adobe.com/nl/docs/experiences-by-you/implementing-new-instance/overview)
-   + [ Controle een geërfte instantie - Leerprogramma ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=nl-NL)
+   + [ voer een nieuwe instantie uit - Leerprogramma ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ Controle een geërfte instantie - Leerprogramma ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
+   + [Werken met programmalidmaatschap](/help/programs/understanding-program-membership.md)
    + [Slimme campagnes 101](/help/campaigns/smart-campaigns-101.md)
+   + [Introductie tot kanalen, tags en kosten voor periode](/help/campaigns/channels-tags-period-costs.md)
    + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
    + Standaardprogramma&#39;s {#default-programs}
       + [Een standaardprogramma maken en meten](/help/programs/create-and-measure-default-programs.md)
@@ -95,7 +99,8 @@ ht-degree: 5%
    + [Toegang tot je verkoopexemplaar Insight Actions](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Logboekregistratie van verkoopactiviteiten configureren naar  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Beheer van leads en gegevens {#lead-and-data-management}
-   + [Leider-/persoonscores](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [Scène begrijpen](/help/lead-and-data-management/understanding-scoring.md)
+   + [Lood-/persoonscores](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Doorloop voor scoren van leads/personen](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Abonnementencentrum](/help/lead-and-data-management/subscription-center-learn.md)
    + [Doorloop voor abonnementencentrum](/help/lead-and-data-management/subscription-center-watch.md)
@@ -121,7 +126,7 @@ ht-degree: 5%
 + Rapportage en analyse {#reporting}
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
 + Integraties {#integrations}
-   + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=nl-NL)
+   + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
    + [Een slimme campagne activeren in Marketo Engage met de REST API en tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Duplicaten beheren {#manage-duplicates}

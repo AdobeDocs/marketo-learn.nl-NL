@@ -7,14 +7,14 @@ jira: KT-10741
 thumbnail: 345425.jpeg
 exl-id: ee60e851-afc0-4094-8131-9d3593f73dd8
 feature: Engagement Programs, Person Scoring
-source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
+source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# Een programma voor het scoren van leads/personen maken
+# Hoe te om een lood/persoon het scoren programma te bouwen
 
 Bekijk hoe u een operationeel programma voor het scoren van leads/personen maakt, tokens in de campagne gebruikt en vooraf gebouwde campagnes importeert.
 
