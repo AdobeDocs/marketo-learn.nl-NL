@@ -26,8 +26,8 @@ ht-degree: 5%
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Aanpassen aan tokens](/help/personalization/personalize-with-tokens.md)
-   + [ voer een nieuwe instantie uit - Leerprogramma ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [ Controle een geërfte instantie - Leerprogramma ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [ voer een nieuwe instantie uit - Leerprogramma ](https://experienceleague.adobe.com/nl/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ Controle een geërfte instantie - Leerprogramma ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=nl-NL)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
    + [Werken met programmalidmaatschap](/help/programs/understanding-program-membership.md)
@@ -126,7 +126,7 @@ ht-degree: 5%
 + Rapportage en analyse {#reporting}
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
 + Integraties {#integrations}
-   + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=nl-NL)
    + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
    + [Een slimme campagne activeren in Marketo Engage met de REST API en tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Duplicaten beheren {#manage-duplicates}
