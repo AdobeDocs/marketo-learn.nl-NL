@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u via Slimme lijsten specifieke groepen mensen kunt zoeken aan de hand van eenvoudige filters.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463209/?learn=on&enablevpops&captions=dut)

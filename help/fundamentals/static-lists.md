@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een algemene lijst met personen maakt in Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463191/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463220/?learn=on&enablevpops&captions=dut)

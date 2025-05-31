@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u scoring toewijst aan uw mensen/leads om hun betrokkenheid bij uw inhoud te evalueren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463242/?learn=on&enablevpops&captions=dut)
