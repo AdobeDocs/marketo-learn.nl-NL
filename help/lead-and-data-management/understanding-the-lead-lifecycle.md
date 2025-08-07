@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Leer hoe leads (mensen) door de verschillende stadia van hun koperstransport gaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470601/?learn=on&enablevpops&captions=dut)

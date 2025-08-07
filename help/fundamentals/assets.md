@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Assets (bijvoorbeeld e-mails, bestemmingspagina&#39;s, enz.) zijn de componenten die worden gebruikt in uw marketingcampagnes in Marketo Engage. Leer hoe u ze kunt gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470558/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470589/?learn=on&enablevpops&captions=dut)

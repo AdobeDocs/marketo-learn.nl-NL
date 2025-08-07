@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Programma&#39;s vormen één marketinginitiatief. Leer hoe u ze kunt gebruiken om uw publiek op verschillende manieren te bereiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470493/?learn=on&enablevpops&captions=dut)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Tokens zijn variabelen die gepersonaliseerde gegevens voor gebruik in Slimme de stroomstappen van de Campagne, e-mail, het Bestaan van Pagina&#39;s, en meer trekken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470578/?learn=on&enablevpops&captions=dut)

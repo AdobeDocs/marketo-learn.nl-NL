@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Slimme campagnes zijn de motor van Marketo Engage. Ze kunnen worden gebruikt om e-mails, programma&#39;s en nog veel meer te verzenden. Leer alles over deze essentiële tools in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470566/?learn=on&enablevpops&captions=dut)
