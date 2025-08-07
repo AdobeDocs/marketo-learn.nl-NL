@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een e-mailprogramma kunt gebruiken om snel en eenvoudig een e-mail naar meerdere ontvangers te verzenden en de resultaten van het programma te volgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470613/?learn=on&enablevpops&captions=dut)
