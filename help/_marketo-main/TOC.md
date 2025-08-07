@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage-tutorials
 user-guide-description: Een verzameling video's en tutorials voor Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage-tutorials
 auto-video-transcripts: true
-source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
+source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '501'
 ht-degree: 5%
 
 ---
@@ -21,22 +21,32 @@ ht-degree: 5%
    + [Personen van koper](/help/fundamentals/buyer-personas-learn.md)
    + [Slimme lijsten](/help/fundamentals/smart-lists.md)
    + [Statische lijsten](/help/fundamentals/static-lists.md)
+   + [Assets](/help/fundamentals/assets.md)
+   + [Overzicht van tokens](/help/fundamentals/tokens-overview.md)
+   + [Aanpassen aan tokens](/help/personalization/personalize-with-tokens.md)
    + [Programma&#39;s en campagnes](/help/fundamentals/programs-and-campaigns.md)
    + [Migreren naar Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Aanpassen aan tokens](/help/personalization/personalize-with-tokens.md)
-   + [ voer een nieuwe instantie uit - Leerprogramma ](https://experienceleague.adobe.com/nl/docs/experiences-by-you/implementing-new-instance/overview)
-   + [ Controle een geërfte instantie - Leerprogramma ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=nl-NL)
+   + [ voer een nieuwe instantie uit - Leerprogramma ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [ Controle een geërfte instantie - Leerprogramma ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
+   + [Programma&#39;s begrijpen](/help/programs/understanding-programs.md)
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
    + [Werken met programmalidmaatschap](/help/programs/understanding-program-membership.md)
+   + [Slimme campagnes](/help/campaigns/understanding-smart-campaigns.md)
    + [Slimme campagnes 101](/help/campaigns/smart-campaigns-101.md)
    + [Introductie tot kanalen, tags en kosten voor periode](/help/programs/channels-tags-period-costs.md)
    + [Gebeurtenisprogramma&#39;s](/help/programs/event-programs.md)
    + Standaardprogramma&#39;s {#default-programs}
       + [Een standaardprogramma maken en meten](/help/programs/create-and-measure-default-programs.md)
       + [De flexibiliteit van standaardprogramma&#39;s benutten](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + E-mailprogramma&#39;s {#email-programs}
+      + [Een e-mailprogramma maken](/help/programs/email-programs/create-an-email-program.md)
+      + [Een e-mail maken](/help/programs/email-programs/create-an-email.md)
+      + [Uw publiek definiëren](/help/programs/email-programs/define-your-audience.md)
+      + [Een bestemmingspagina maken](/help/programs/email-programs/create-a-landing-page.md)
+      + [Een formulier maken](/help/programs/email-programs/create-a-form.md)
    + Betrokkenheidskaarten {#engagement-maps}
       + [Overzicht van de betrokkenheidskaart](/help/engagement-maps/engagement-map-overview.md)
       + [Geneste campagnes voor de toewijzing van betrokkenheid](/help/engagement-maps/engagement-map-nested-campaign.md)
@@ -102,6 +112,7 @@ ht-degree: 5%
    + [Scène begrijpen](/help/lead-and-data-management/understanding-scoring.md)
    + [Lood-/persoonscores](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Doorloop voor scoren van leads/personen](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [De hoofdlevenscyclus begrijpen](/help/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [Abonnementencentrum](/help/lead-and-data-management/subscription-center-learn.md)
    + [Doorloop voor abonnementencentrum](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-synchronisatie](/help/lead-and-data-management/crm-sync-learn.md)
@@ -126,7 +137,7 @@ ht-degree: 5%
 + Rapportage en analyse {#reporting}
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
 + Integraties {#integrations}
-   + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=nl-NL)
+   + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
    + [Een slimme campagne activeren in Marketo Engage met de REST API en tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Duplicaten beheren {#manage-duplicates}
