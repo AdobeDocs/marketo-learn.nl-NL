@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een bestemmingspagina maakt, aanpast en goedkeurt in uw e-mailprogramma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470631/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470651/?learn=on&enablevpops&captions=dut)

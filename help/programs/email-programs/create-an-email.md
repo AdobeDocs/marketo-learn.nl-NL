@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u een e-mail maakt, personaliseert en test in een e-mailprogramma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470640/?learn=on&enablevpops&captions=dut)

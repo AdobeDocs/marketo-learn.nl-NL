@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u het gewenste publiek definieert wanneer u een e-mailprogramma gebruikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470673/?learn=on&enablevpops&captions=dut)
