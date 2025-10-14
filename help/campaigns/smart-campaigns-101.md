@@ -28,9 +28,9 @@ Slimme campagnes zijn de motor van Marketo. Naast het gebruik van slimme campagn
 
 **Documentatie:**
 
-* [ Begrijpend Slimme documentatie van Campagnes ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=nl-NL)
+* [&#x200B; Begrijpend Slimme documentatie van Campagnes &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=nl-NL)
 
 **Professionele Blogberichten van de Klant:**
 
-* [ Slimme Campagnes 101: Diep duikt in Adobe Marketo Engage het krachtigst Bezit ](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
-* [ de Reeksen van het Succes van Marketo: Slimme Campagnes ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
+* [&#x200B; Slimme Campagnes 101: Diep duikt in Adobe Marketo Engage het krachtigst Bezit &#x200B;](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [&#x200B; de Reeksen van het Succes van Marketo: Slimme Campagnes &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

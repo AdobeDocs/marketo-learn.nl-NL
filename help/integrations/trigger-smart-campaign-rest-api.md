@@ -30,18 +30,18 @@ Dit kan worden gedaan gebruikend REST API en Mijn Tokens.
 
 ## Stap 1: De slimme campagne maken {#step-one}
 
-1. Ga naar **de Activiteiten van de Marketing**, en onder uw [ omslag van Programma&#39;s ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}, creeer een nieuwe [ Slimme Campagne ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} geroepen `Send Webinar Reminder`.
+1. Ga naar **de Activiteiten van de Marketing**, en onder uw [&#x200B; omslag van Programma&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"}, creeer een nieuwe [&#x200B; Slimme Campagne &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"} geroepen `Send Webinar Reminder`.
 
-1. In de **Slimme Lijst** tabel, [ voeg een trekker ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} toe om de campagne toe te staan om via API worden geroepen:
+1. In de **Slimme Lijst** tabel, [&#x200B; voeg een trekker &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} toe om de campagne toe te staan om via API worden geroepen:
 
    * Selecteer **Campagne wordt gevraagd** als trekker
    * Plaats **Source** aan `Web Service API`
 
-![ Slimme de triggeropstelling van de Lijst ](assets/trigger-smart-campaign-rest-api-1.png)
+![&#x200B; Slimme de triggeropstelling van de Lijst &#x200B;](assets/trigger-smart-campaign-rest-api-1.png)
 
 ## Stap 2: De e-mailinhoud definiëren {#step-two}
 
-Creeer of geef een [ e-mailactiva ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} uit die verwijzingen zowel Persoon als [ Mijn Tokens ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
+Creeer of geef een [&#x200B; e-mailactiva &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} uit die verwijzingen zowel Persoon als [&#x200B; Mijn Tokens &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ Als u een token gebruikt om een afbeeldings-URL dynamisch te injecteren (bijvoor
 >
 >Marketo Enagage **zal niet** het beeld teruggeven tenzij het teken binnen een geldige beeldmarkering wordt geplaatst.
 
-![ E-mail redacteur die tokengebruik toont ](assets/trigger-smart-campaign-rest-api-2.png)
+![&#x200B; E-mail redacteur die tokengebruik toont &#x200B;](assets/trigger-smart-campaign-rest-api-2.png)
 
 ## Stap 3: Tokens toevoegen aan het programma {#step-three}
 
@@ -79,15 +79,15 @@ Als u waarden dynamisch wilt doorgeven via API, moeten de tokens al bestaan in M
 * `{{my.JoinLink}}` - Teksttoken
 * `{{my.WebinarImage}}` - Teksttoken (dit wordt gebruikt als de `src` in een `<img>` -tag)
 
-![ Mijn Tokens lusje in campagne ](assets/trigger-smart-campaign-rest-api-3.png)
+![&#x200B; Mijn Tokens lusje in campagne &#x200B;](assets/trigger-smart-campaign-rest-api-3.png)
 
 ## Stap 4: Stel kwalificatieregels voor de campagne in en activeer de campagne {#step-four}
 
-1. Vorm de [ kwalificatieregels ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} om te controleren hoe vaak een persoon door de Slimme Campagne kan lopen.
+1. Vorm de [&#x200B; kwalificatieregels &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} om te controleren hoe vaak een persoon door de Slimme Campagne kan lopen.
 
 1. Zodra gevormd, activeer **&#x200B;**&#x200B;om de Slimme Campagne toe te laten om API-teweeggebrachte verzoeken te ontvangen.
 
-![ Slimme de kwalificatieregel van de Campagne ](assets/trigger-smart-campaign-rest-api-4.png)
+![&#x200B; Slimme de kwalificatieregel van de Campagne &#x200B;](assets/trigger-smart-campaign-rest-api-4.png)
 
 ## Stap 5: Trigger de campagne via REST API {#step-five}
 

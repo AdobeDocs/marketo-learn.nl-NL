@@ -12,7 +12,7 @@ ht-degree: 13%
 
 # [!DNL Marketo Engage] Tutorials
 
-Blader door onze zelfstudie-bibliotheek en profiteer van de voordelen van [!DNL Marketo Engage] . Deze leerprogramma&#39;s kunnen helpen [[!DNL Marketo]  productdocumentatie ](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=nl-NL){target="_blank"}  aanvullen om u te helpen uw begrip van de eigenschappen van de marketing automatisering verbeteren.
+Blader door onze zelfstudie-bibliotheek en profiteer van de voordelen van [!DNL Marketo Engage] . Deze leerprogramma&#39;s kunnen helpen [[!DNL Marketo]  productdocumentatie &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=nl-NL){target="_blank"}  aanvullen om u te helpen uw begrip van de eigenschappen van de marketing automatisering verbeteren.
 
 <!-- <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -23,13 +23,13 @@ Blader door onze zelfstudie-bibliotheek en profiteer van de voordelen van [!DNL 
 
 ## Nieuwe functies {#whats-new}
 
-* [ Beste praktijken om levende praatje ](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices) uit te voeren
+* [&#x200B; Beste praktijken om levende praatje &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices) uit te voeren
   _leer over de beste praktijken om te volgen wanneer u de levende praatjeeigenschap in Dynamic Chat uitvoert._
 
-* [ Interactief Webinars Overzicht ](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+* [&#x200B; Interactief Webinars Overzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _leer allen over Interactieve Webinars, het ingebouwde webinar platform binnen Marketo Engage._
 
-* [ migrerend aan Adobe Identity Management ](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+* [&#x200B; migrerend aan Adobe Identity Management &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _Leer om de migratie van Adobe Identity Management te navigeren zodat kunt u beginnen Adobe Marketo Engage samen met andere rekeningen en producten van Adobe voor uw gebruikers in een centrale plaats te beheren._
 
 ## Meest populaire video&#39;s {#most-popular-videos}
