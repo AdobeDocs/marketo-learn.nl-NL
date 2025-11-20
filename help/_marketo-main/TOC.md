@@ -28,8 +28,8 @@ ht-degree: 5%
    + [Migreren naar Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [&#x200B; voer een nieuwe instantie uit - Leerprogramma &#x200B;](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [&#x200B; Controle een geërfte instantie - Leerprogramma &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [&#x200B; voer een nieuwe instantie uit - Leerprogramma &#x200B;](https://experienceleague.adobe.com/nl/docs/experiences-by-you/implementing-new-instance/overview)
+   + [&#x200B; Controle een geërfte instantie - Leerprogramma &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=nl-NL)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s begrijpen](/help/programs/understanding-programs.md)
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
@@ -136,7 +136,7 @@ ht-degree: 5%
 + Rapportage en analyse {#reporting}
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
 + Integraties {#integrations}
-   + [&#x200B; Marketo met Real-Time Customer Data Platform &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [&#x200B; Marketo met Real-Time Customer Data Platform &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=nl-NL)
    + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
    + [Een slimme campagne activeren in Marketo Engage met de REST API en tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Duplicaten beheren {#manage-duplicates}

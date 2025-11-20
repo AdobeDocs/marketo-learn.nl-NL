@@ -28,7 +28,7 @@ Slimme campagnes zijn de motor van Marketo. Naast het gebruik van slimme campagn
 
 **Documentatie:**
 
-* [&#x200B; Begrijpend Slimme documentatie van Campagnes &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [&#x200B; Begrijpend Slimme documentatie van Campagnes &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=nl-NL)
 
 **Professionele Blogberichten van de Klant:**
 
