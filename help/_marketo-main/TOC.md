@@ -28,8 +28,8 @@ ht-degree: 5%
    + [Migreren naar Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Aanbevolen procedures voor het organiseren van een nieuwe instantie](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Aanbevolen werkwijzen voor het maken van programma&#39;s voor grondbeginselen](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [ voer een nieuwe instantie uit - Leerprogramma ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [ Controle een geërfte instantie - Leerprogramma ](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [&#x200B; voer een nieuwe instantie uit - Leerprogramma &#x200B;](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [&#x200B; Controle een geërfte instantie - Leerprogramma &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programma&#39;s en campagnes {#programs-and-campaigns}
    + [Programma&#39;s begrijpen](/help/programs/understanding-programs.md)
    + [Programma&#39;s en campagnes begrijpen](/help/programs/understanding-programs-and-campaigns.md)
@@ -69,7 +69,7 @@ ht-degree: 5%
    + [E-maildoorloop geactiveerd](/help/email-marketing/triggered-email-watch.md)
    + [Loodvoeding](/help/email-marketing/lead-nuturing-learn.md)
    + [Dynamische en voorspelbare inhoud](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [ Filtrerend e-mailbot activiteiten - Opstelling ](/help/filtering-email-bot-activities/setup.md)
+   + [&#x200B; Filtrerend e-mailbot activiteiten - Opstelling &#x200B;](/help/filtering-email-bot-activities/setup.md)
 + Kanaaloverschrijdende marketing {#cross-channel-marketing}
    + [Forms-doorloop](/help/email-marketing/forms-watch.md)
    + [Integratie van mobiele marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -136,7 +136,7 @@ ht-degree: 5%
 + Rapportage en analyse {#reporting}
    + [Belangrijkste verslagen](/help/reporting/key-reports.md)
 + Integraties {#integrations}
-   + [ Marketo met Real-Time Customer Data Platform ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [&#x200B; Marketo met Real-Time Customer Data Platform &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API Help - Het toegangstoken instellen in een variabele](/help/integrations/api-set-access-token-variable.md)
    + [Een slimme campagne activeren in Marketo Engage met de REST API en tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Duplicaten beheren {#manage-duplicates}

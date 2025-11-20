@@ -63,7 +63,7 @@ Welkom bij de website met zelfstudies van [!UICONTROL Dynamic Chat] . Gebruik de
    * **[laat uw lood aan boekvergaderingen met uw verkoop toe](meeting-booking.md)**
      *versnelt verbinden met verkoop voor die [!DNL target] rekeningen met het boeken van de Vergadering functionaliteiten.*
 * Generatieve AI-chat
-   * **[de gesprekken van GenAI van de aandrijving van 0}](gen-ai-features.md)**
+   * **[de gesprekken van GenAI van de aandrijving van 0&rbrace;](gen-ai-features.md)**
      *Leer hoe te om de eigenschappen van Dynamic Chat GenAI te gebruiken.*
 * Analytics
    * **[het rapport van de Betrokkenheid](engagement-report.md)**
