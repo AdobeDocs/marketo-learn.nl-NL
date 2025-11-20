@@ -21,7 +21,7 @@ ht-degree: 40%
 
 Slimme campagnes zijn de motor van Marketo. Naast het gebruik van slimme campagnes voor het verzenden van e-mails en programma&#39;s, kunt u slimme campagnes gebruiken voor verschillende gebruiksgevallen. Leer hoe u Slimme Campagnes voor gegevensnormalisatie en geautomatiseerde alarm kunt gebruiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424494/?captions=dut&quality=12&learn=on){transcript=true}
 
 
 ## Aanvullende bronnen
